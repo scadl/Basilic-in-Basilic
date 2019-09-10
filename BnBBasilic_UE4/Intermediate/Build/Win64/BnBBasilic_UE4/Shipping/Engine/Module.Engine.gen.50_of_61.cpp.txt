@@ -1,0 +1,23 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCapture.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/SceneCapture.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCapture.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/ArchiveFromStructuredArchive.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCapture2D.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/SceneCapture2D.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCapture2D.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Components/SceneCaptureComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCaptureComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent2D.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Components/SceneCaptureComponent2D.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCaptureComponent2D.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponentCube.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Components/SceneCaptureComponentCube.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCaptureComponentCube.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureCube.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/SceneCaptureCube.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SceneCaptureCube.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneComponent.gen.cpp

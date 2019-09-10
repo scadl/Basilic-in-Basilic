@@ -1,0 +1,39 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\OculusMR\Definitions.OculusMR.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR.init.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_BoundaryActor.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Private/OculusMR_BoundaryActor.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Include\OVR_Plugin_MixedReality.h
+d:\epicgames\unrealengine\engine\source\thirdparty\oculus\ovrplugin\ovrplugin\include\OVR_Plugin_Types.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_BoundaryActor.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_BoundaryMeshComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Private/OculusMR_BoundaryMeshComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_BoundaryMeshComponent.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_CastingCameraActor.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Private/OculusMR_CastingCameraActor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCapture.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCapture2D.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_CastingCameraActor.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_PlaneMeshComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Private/OculusMR_PlaneMeshComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_PlaneMeshComponent.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_Settings.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Public/OculusMR_Settings.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_Settings.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMR_State.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Private/OculusMR_State.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\OculusFunctionLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\public\IOculusHMDModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OculusHMD\OculusFunctionLibrary.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMR_State.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/OculusMR/OculusMRFunctionLibrary.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR/Public/OculusMRFunctionLibrary.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\oculusmr\OculusMRFunctionLibrary.generated.h

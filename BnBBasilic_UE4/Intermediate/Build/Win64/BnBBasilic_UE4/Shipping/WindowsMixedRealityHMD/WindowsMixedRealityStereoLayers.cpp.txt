@@ -1,0 +1,124 @@
+d:\epicgames\unrealengine\engine\plugins\runtime\windowsmixedreality\source\windowsmixedrealityhmd\private\WindowsMixedRealityStereoLayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultStereoLayers.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\StereoLayerManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+d:\epicgames\unrealengine\engine\plugins\runtime\windowsmixedreality\source\windowsmixedrealityhmd\private\WindowsMixedRealityHMD.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultXRCamera.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsApplication.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ShObjIdl.h
+d:\windows kits\10\include\10.0.18362.0\um\docobj.h
+d:\windows kits\10\include\10.0.18362.0\um\shtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\um\comcat.h
+d:\windows kits\10\include\10.0.18362.0\um\prsht.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\um\propsys.h
+d:\windows kits\10\include\10.0.18362.0\um\StructuredQueryCondition.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propkeydef.h
+d:\windows kits\10\include\10.0.18362.0\um\ObjectArray.h
+d:\windows kits\10\include\10.0.18362.0\um\shobjidl_core.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sherrors.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\prsht.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\commctrl.h
+D:\Windows Kits\10\include\10.0.18362.0\um\prsht.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\dpa_dsa.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IForceFeedbackSystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsTextInputMethodSystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ITextInputMethodSystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\Windows/TextStoreACP.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\TextStor.h
+D:\Windows Kits\10\include\10.0.18362.0\um\msctf.h
+d:\windows kits\10\include\10.0.18362.0\um\ctfutb.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/COMPointer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Slate\InputChord.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PlayerInput.generated.h
+d:\epicgames\unrealengine\engine\plugins\runtime\windowsmixedreality\source\windowsmixedrealityhmd\private\WindowsMixedRealityCustomPresent.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\WindowsMixedRealityInterop\Include\MixedRealityInterop.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+D:\Windows Kits\10\include\10.0.18362.0\um\DirectXMath.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+d:\windows kits\10\include\10.0.18362.0\um\DirectXMathConvert.inl
+d:\windows kits\10\include\10.0.18362.0\um\DirectXMathVector.inl
+d:\windows kits\10\include\10.0.18362.0\um\DirectXMathMatrix.inl
+d:\windows kits\10\include\10.0.18362.0\um\DirectXMathMisc.inl
+D:\Windows Kits\10\include\10.0.18362.0\um\spatialaudioclient.h
+D:\Windows Kits\10\include\10.0.18362.0\winrt\hstring.h
+d:\windows kits\10\include\10.0.18362.0\um\AudioClient.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\mmreg.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\um\AudioSessionTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ks.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ksmedia.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderTargetManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\StereoRenderTargetManager.h

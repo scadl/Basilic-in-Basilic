@@ -1,0 +1,34 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\AutomationWorker\Definitions.AutomationWorker.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AutomationWorker\Private\AutomationAnalytics.cpp
+d:\epicgames\unrealengine\engine\source\runtime\automationworker\private\AutomationAnalytics.h
+d:\epicgames\unrealengine\engine\source\runtime\automationworker\private\AutomationAnalyticParams.h
+d:\epicgames\unrealengine\engine\source\runtime\automationworker\private\AutomationWorkerPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\AnalyticsET\Public\AnalyticsET.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsEventAttribute.h
+d:\epicgames\unrealengine\engine\source\runtime\analytics\analytics\public\AnalyticsConversion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AutomationMessages\Public\AutomationWorkerMessages.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AutomationMessages\AutomationWorkerMessages.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProvider.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\AnalyticsET\Public\IAnalyticsProviderET.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AutomationWorker\Public\IAutomationWorkerModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AutomationWorker\Private\AutomationWorkerModule.cpp
+d:\epicgames\unrealengine\engine\source\runtime\automationworker\private\AutomationWorkerModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageContext.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MessagingCommon\Public\MessageEndpoint.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageAttachment.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageBus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageHandler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageReceiver.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageSender.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageBusListener.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MessagingCommon\Public\MessageEndpointBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessagingModule.h
+d:\epicgames\unrealengine\engine\source\runtime\messagingcommon\public\MessageHandlers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectConverter.h
+d:\epicgames\unrealengine\engine\source\runtime\jsonutilities\public\JsonObjectWrapper.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Tests/AutomationCommon.h

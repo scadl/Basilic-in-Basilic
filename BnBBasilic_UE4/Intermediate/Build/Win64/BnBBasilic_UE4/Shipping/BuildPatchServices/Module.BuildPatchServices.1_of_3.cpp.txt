@@ -1,0 +1,307 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\BuildPatchServices\Definitions.BuildPatchServices.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFeatureLevel.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchFeatureLevel.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFileConstructor.cpp
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchFileConstructor.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchProgress.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Controllable.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchManifest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildManifest.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Data/ChunkData.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Data/ManifestData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/SpeedRecorder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchInstall.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchServicesPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/StatsCollector.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/FileSystem.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkSource.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkReferenceTracker.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/InstallerError.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/InstallerAnalytics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchUtil.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchGeneration.cpp
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchGeneration.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchSettings.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\public\BuildPatchDelta.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\public\BuildPatchVerify.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ScopedPointer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchServicesModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildPatchServicesModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchInstaller.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/Platform.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/ProcessTimer.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/AsyncHelpers.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/HttpManager.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchHash.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/RingBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/BlockStructure.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/BlockRange.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/BlockData.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/DataScanner.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/CloudEnumeration.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/DeltaEnumeration.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/BuildStreamer.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/Factory.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Core/FileSpan.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/CloudChunkSource.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/ManifestBuilder.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/FileAttributesParser.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkWriter.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkMatchProcessor.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchHash.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstaller.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/ChunkDataSizeProvider.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Common/DataSizeProvider.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/DiskChunkStore.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkStore.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/MemoryChunkStore.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkEvictionPolicy.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/DownloadService.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChunkDbChunkSource.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/InstallChunkSource.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/ChainedChunkSource.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Verifier.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/FileAttribution.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Prerequisites.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/MachineConfig.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/MessagePump.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/OptimisedDelta.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/MemoryChunkStoreStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/DiskChunkStoreStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/DownloadServiceStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/ChunkDbChunkSourceStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/InstallChunkSourceStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/CloudChunkSourceStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/FileConstructorStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/VerifierStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/Statistics/FileOperationTracker.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifest.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchMergeManifests.cpp
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchMergeManifests.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchProgress.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\HttpManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Online/HTTP/Private/IHttpThreadedRequest.h
+d:\epicgames\unrealengine\engine\source\runtime\online\http\public\GenericPlatform/HttpRequestImpl.h
+d:\epicgames\unrealengine\engine\source\runtime\online\http\public\HttpPackage.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Compactify/PatchDataCompactifier.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Diffing/DiffManifests.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Enumeration/PatchDataEnumeration.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkDeltaOptimiser.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/PackageChunkData.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Installer/BuildStatistics.h
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\BuildPatchVerifyChunkData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchServicesSingleton.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesSingleton.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchSettings.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchState.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchUtil.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchVerifyChunkData.cpp
+d:\epicgames\unrealengine\engine\source\runtime\online\buildpatchservices\private\Generation/ChunkDatabaseWriter.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/ChunkDataSizeProvider.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/FileSystem.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+d:\windows kits\10\include\10.0.18362.0\shared\rpc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\rpcndr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcsal.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\wtypesbase.h
+d:\windows kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winioctl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/HttpManager.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/SpeedRecorder.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/StatsCollector.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Compactify/PatchDataCompactifier.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Core/BlockStructure.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ChunkData.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestData.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestUObject.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\BuildPatchServices\ManifestUObject.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestUObject.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Diffing/DiffManifests.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Enumeration/PatchDataEnumeration.cpp

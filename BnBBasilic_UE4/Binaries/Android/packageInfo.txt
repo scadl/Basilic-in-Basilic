@@ -1,0 +1,4 @@
+net.scadsdnd.BnBBasilic_UE4
+5
+2.1
+name='com.epicgames.ue4.GameActivity.AppType' value=''

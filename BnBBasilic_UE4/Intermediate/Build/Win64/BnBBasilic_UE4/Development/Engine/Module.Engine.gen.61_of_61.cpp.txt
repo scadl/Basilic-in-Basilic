@@ -1,0 +1,41 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VoiceChannel.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/VoiceChannel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/Channel.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\Channel.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/VoiceDataCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/EnvelopeFollower.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AudioSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\PlayerState.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\SoundWaveProcedural.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\SynthComponent.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\VoiceConfig.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\VoiceChannel.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VoiceConfig.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Volume.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VolumeTexture.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/VolumeTexture.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\VolumeTexture.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/ArchiveFromStructuredArchive.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VolumetricLightmapDensityVolume.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Lightmass/VolumetricLightmapDensityVolume.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\VolumetricLightmapDensityVolume.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\WindDirectionalSource.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/WindDirectionalSource.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\WindDirectionalSource.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\WindDirectionalSourceComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Components/WindDirectionalSourceComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\WindDirectionalSourceComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\World.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\WorldComposition.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Engine/WorldComposition.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\WorldComposition.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\WorldPSCPool.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\WorldSettings.gen.cpp

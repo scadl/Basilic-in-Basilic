@@ -1,0 +1,278 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\D3D11RHI\Definitions.D3D11RHI.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\D3D11RHIPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11RHI.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\Windows/D3D11RHIBasePrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\D3D11.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\rpcsal.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ole2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+d:\windows kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidl.h
+d:\windows kits\10\include\10.0.18362.0\um\unknwn.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+d:\windows kits\10\include\10.0.18362.0\um\oaidl.h
+D:\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+d:\windows kits\10\include\10.0.18362.0\um\oleidl.h
+d:\windows kits\10\include\10.0.18362.0\um\servprov.h
+d:\windows kits\10\include\10.0.18362.0\um\msxml.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgitype.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgicommon.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgiformat.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3dcommon.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10_1.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10sdklayers.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10misc.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10shader.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10effect.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10_1shader.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d11sdklayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Util.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11State.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Resources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\public\D3D11ShaderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Viewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11ConstantBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\D3D11StateCache.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\D3D11StateCachePrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\NVaftermath\GFSDK_Aftermath.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvaftermath\defines.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\Windows/D3D11RHIPrivateUtil.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\windows\WindowsD3D11ConstantBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UtilityShaders\Public\OneColorShader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\nvapi\nvapi.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_common.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_sli.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_surround.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_stereo.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_d3dext.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\AMD\AMD_AGS\inc\amd_ags.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11ConstantBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Device.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\delayimp.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11IndexBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11RenderTarget.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UtilityShaders\Public\ResolveShader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11RHI.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\d3d9.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d9types.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d9caps.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\TaskGraph\Public\STaskGraph.h
+d:\epicgames\unrealengine\engine\source\developer\taskgraph\public\VisualizerEvents.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Shaders.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11State.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11StateCache.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11StructuredBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\nvapi\nvapi.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UAV.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexDeclaration.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/RendererSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\RendererSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\dwmapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\uxtheme.h
+D:\Windows Kits\10\include\10.0.18362.0\um\commctrl.h
+D:\Windows Kits\10\include\10.0.18362.0\um\prsht.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\dpa_dsa.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\WindowsD3D11ConstantBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\WindowsD3D11Device.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\nvapi\nvapi.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salstart.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvapi\nvapi_lite_salend.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\nvapi\nvShaderExtnEnums.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\HardwareInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformDriver.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\dxgi1_3.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi1_2.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\WindowsD3D11Viewport.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

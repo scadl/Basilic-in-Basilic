@@ -1,0 +1,77 @@
+D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/AppFramework/Module.AppFramework.cppa7.o: \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/AppFramework/Module.AppFramework.cpp \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Slate/SharedPCH.Slate.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/AppFramework/Definitions.AppFramework.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/AppFrameworkModule.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\GenericPlatform/GenericPlatformStackWalk.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/SLayoutExample.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Framework/Testing/SLayoutExample.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/SWeakWidget.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/STableViewTesting.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Framework/Testing/STableViewTesting.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Views/STileView.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/SSpinBox.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/NumericTypeInterface.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Algo/Find.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Algo/Impl/RangePointerType.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Math/BasicMathExpressionEvaluator.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Internationalization/FastDecimalFormat.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/SUserWidgetTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Framework/Testing/SUserWidgetTest.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/SlateCore/Public\Widgets/SUserWidget.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/SWidgetGallery.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Framework/Testing/SWidgetGallery.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Layout/SFxWidget.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Images/SSpinningImage.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Notifications/SProgressBar.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Inc/Slate\SProgressBar.generated.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Layout/SHeader.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Text/SMultiLineEditableText.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/SlateTextLayoutFactory.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/SlateTextLayout.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/SMultiLineEditableTextBox.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Colors/SColorBlock.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/SSlider.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Framework/Testing/TestStyle.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Framework/Testing/TestStyle.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/SlateCore/Public\Styling/SlateStyleRegistry.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SColorGradingPicker.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Colors/SColorGradingPicker.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/SNumericEntryBox.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Colors/SColorGradingWheel.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SColorPicker.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Colors/SColorPicker.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Layout/SUniformGridPanel.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Colors/SComplexGradient.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Colors/SSimpleGradient.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private\Widgets/Colors/SEyeDropperButton.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Colors/SColorWheel.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Colors/SColorSpectrum.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Colors/SColorThemes.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SColorThemes.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/SToolTip.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Notifications/SErrorText.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Input/STextEntryPopup.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SComplexGradient.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SEyeDropperButton.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Public\HAL/PlatformApplicationMisc.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Public\Android/AndroidPlatformApplicationMisc.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/ApplicationCore/Public\GenericPlatform/GenericPlatformApplicationMisc.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Colors/SSimpleGradient.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Testing/SPerfSuite.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Testing/SPerfSuite.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Testing/STestSuite.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Testing/STestSuite.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/SlateCore/Public\Fonts/FontMeasure.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/ISlateRun.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/ILayoutBlock.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/IRunRenderer.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/SlateTextRun.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/SlateHyperlinkRun.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/SlateWidgetRun.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/ITextDecorator.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Framework/Text/TextDecorators.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Text/SRichTextBlock.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Private/Widgets/Workflow/SWizard.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AppFramework/Public\Widgets/Workflow/SWizard.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/Layout/SWidgetSwitcher.h

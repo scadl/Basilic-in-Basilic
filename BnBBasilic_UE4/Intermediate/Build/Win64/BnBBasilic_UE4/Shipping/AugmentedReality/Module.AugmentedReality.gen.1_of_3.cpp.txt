@@ -1,0 +1,46 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\AugmentedReality\Definitions.AugmentedReality.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/ARBlueprintLibrary.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality/Public/ARBlueprintLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\BlueprintAsyncActionBase.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARSystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRTrackingSystemBase.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRTrackingSystem.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRCamera.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARSupportInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARSessionConfig.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTrackable.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARTrackable.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARSessionConfig.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTextures.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureCube.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARTextures.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTraceResult.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARTraceResult.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARBlueprintLibrary.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/ARBlueprintProxy.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality/Public/ARBlueprintProxy.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARBlueprintProxy.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/ARLightEstimate.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality/Public/ARLightEstimate.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARLightEstimate.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/AROriginActor.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality/Public/AROriginActor.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\AROriginActor.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/ARPin.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality/Public/ARPin.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\augmentedreality\ARPin.generated.h
+D:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Win64/BnBBasilic_UE4/Inc/AugmentedReality/ARSessionConfig.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/ArchiveFromStructuredArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h

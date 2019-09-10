@@ -1,0 +1,25 @@
+D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/MRMesh/Module.MRMesh.cppa8.o: \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/MRMesh/Module.MRMesh.cpp \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Engine/SharedPCH.Engine.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/MRMesh/Definitions.MRMesh.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Private/MockDataMeshTrackerComponent.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public\MockDataMeshTrackerComponent.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Inc/MRMesh\MockDataMeshTrackerComponent.generated.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Engine/Classes\Engine/GameEngine.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Slate/Public\Widgets/SViewport.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/SlateCore/Public\Input/HittestGrid.h \
+  D:/EpicGames/UnrealEngine/Engine/Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Inc/Engine\GameEngine.generated.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public\MRMeshComponent.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Inc/MRMesh\MRMeshComponent.generated.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Private/MRMeshComponent.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public\BaseMeshReconstructorModule.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public\MeshReconstructorBase.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Inc/MRMesh\MeshReconstructorBase.generated.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Engine/Public\AI/NavigationSystemHelpers.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public\IPhysXCooking.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Engine/Public\PhysXCookHelper.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/RuntimeErrors.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Private/MRMeshModule.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public\MRMeshModule.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/MRMesh/Public/MeshReconstructorBase.cpp

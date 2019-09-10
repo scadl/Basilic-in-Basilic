@@ -1,0 +1,16 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\BuildSettings\Definitions.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\BuildSettings\Public\BuildSettings.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\CoreTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/Build.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\HAL/Platform.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerPreSetup.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatform.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformCodeAnalysis.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Windows/WIndowsPlatform.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sal.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\concurrencysal.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\ProfilingDebugging/UMemoryDefines.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/CoreMiscDefines.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/CoreDefines.h

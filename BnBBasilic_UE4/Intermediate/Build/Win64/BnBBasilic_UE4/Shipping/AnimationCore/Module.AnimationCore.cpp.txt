@@ -1,0 +1,24 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\AnimationCore\Definitions.AnimationCore.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/AngularLimit.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\AngularLimit.h
+d:\epicgames\unrealengine\engine\source\runtime\animationcore\public\CommonAnimTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AnimationCore\CommonAnimTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/AnimationCore.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\AnimationCore.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/AnimationCoreLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\AnimationCoreLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\Constraint.h
+d:\epicgames\unrealengine\engine\source\runtime\animationcore\public\EulerTransform.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AnimationCore\EulerTransform.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AnimationCore\Constraint.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\animationcore\private\AnimationCoreUtil.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/CCDIK.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\CCDIK.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/Constraint.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/EulerTransform.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/FABRIK.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\FABRIK.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/SplineIK.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\SplineIK.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AnimationCore/Private/TwoBoneIK.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AnimationCore\Public\TwoBoneIK.h

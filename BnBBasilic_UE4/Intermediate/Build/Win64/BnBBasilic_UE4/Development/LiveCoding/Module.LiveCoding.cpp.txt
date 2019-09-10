@@ -1,0 +1,262 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\LiveCoding\Definitions.LiveCoding.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientCommandActions.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_ClientCommandActions.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Commands.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_ClientUserCommandThread.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Thread.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_DuplexPipe.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_SyncPoint.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Executable.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_PointerUtil.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_MemoryFile.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Platform.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Preprocessor.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\xxhash.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Event.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Process.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Logging.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientCommandThread.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_ClientCommandThread.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_CommandMap.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_CriticalSection.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_DuplexPipeClient.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_HeartBeat.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientStartupThread.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_ClientStartupThread.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_RunMode.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_StringUtil.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_NamedSharedMemory.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_InterprocessMutex.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_PrimitiveNames.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_ClientUserCommandThread.cpp
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_CommandMap.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_CriticalSection.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_DuplexPipe.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_DuplexPipeClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_EntryPoint.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_EntryPoint.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LPP_API.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Event.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Executable.cpp
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_HeartBeat.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_UtcTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_InterprocessMutex.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Logging.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingLog.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\atomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Memory.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Memory.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_MemoryFile.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_NamedSharedMemory.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_PrimitiveNames.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Process.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_VirtualMemory.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Psapi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Semaphore.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Semaphore.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Shortcut.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\external\LC_Shortcut.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_StringUtil.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_SyncPoint.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_Thread.cpp
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_startup.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_UtcTime.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\LC_VirtualMemory.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingLog.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingModule.cpp
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\LiveCodingModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Public\ILiveCodingModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AES.h
+d:\epicgames\unrealengine\engine\source\developer\windows\livecoding\private\LiveCodingSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveCoding\LiveCodingSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Settings\Public\ISettingsSection.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\LiveCodingSettings.cpp

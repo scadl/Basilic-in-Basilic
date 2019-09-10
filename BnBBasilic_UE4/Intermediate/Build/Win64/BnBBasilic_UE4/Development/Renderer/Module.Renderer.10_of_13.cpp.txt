@@ -1,0 +1,144 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\Renderer\Definitions.Renderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\RendererUtils.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\RendererUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\RequiredTextureResolutionRendering.cpp
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RequiredTextureResolutionRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\MaterialShader.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DebugViewModeRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ShaderBaseClasses.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\DebugViewModeInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RendererPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\AtmosphereTextureParameters.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ShaderComplexityRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DeferredShadingRenderer.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ScenePrivateBase.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightSceneInfo.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DistortionRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\HeightfieldLighting.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphResources.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\MeshDrawCommands.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\TranslucencyPass.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DepthRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ScreenSpaceDenoise.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DynamicPrimitiveDrawing.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DynamicPrimitiveDrawing.inl
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\TranslucentRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightMapDensityRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\LightMapTexture2D.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Engine/Classes/VT/VirtualTexture.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VirtualTexture.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Engine/Classes/VT/VirtualTextureSpace.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\VirtualTexturing.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VirtualTextureSpace.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UtilityShaders\Public\ClearQuad.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\AtmosphereRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightPropagationVolume.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ScenePrivate.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneCore.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneHitProxyRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ShadowRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SystemTextures.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/SceneRenderTargets.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightMapRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\LightMap.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VelocityRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\BasePassRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\FogRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VolumetricFog.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PlanarReflectionRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Matrix3x4.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ReflectionEnvironment.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\MobileBasePassRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneSoftwareOcclusion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ByteBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VolumetricFogShared.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RayTracing/RayTracingIESLightProfiles.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\BasePassRendering.inl
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RenderTargetTemp.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RendererModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneCaptureRendering.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\LegacyScreenPercentageDriver.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent2D.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponentCube.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponentCube.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTargetCube.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTargetCube.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/SceneFilterRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\MobileSceneCaptureRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneCore.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/ExponentialHeightFogComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\ExponentialHeightFogComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/AllocatorFixedSizeFreeList.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneHitProxyRendering.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.inl
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\GPUScene.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneOcclusion.cpp
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneOcclusion.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/PostProcessing.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/RenderingCompositionGraph.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\PlanarReflectionSceneProxy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\FontImportOptions.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Font.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CanvasTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/ReflectionCaptureComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\ReflectionCaptureComponent.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/PostProcessEyeAdaptation.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\CompositionLighting/CompositionLighting.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/PostProcessBusyWait.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/PostProcessCircleDOF.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\MatineeActor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ComponentRecreateRenderStateContext.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/PostProcessSubsurface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\HdrCustomResolveShaders.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\WideCustomResolveShaders.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\GPUSkinCache.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DeviceProfileManager.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureLODSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DeviceProfile.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VisualizeTexturePresent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneSoftwareOcclusion.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneViewFamilyBlackboard.cpp
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneViewFamilyBlackboard.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\SceneVisibility.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\FXSystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/LODActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\LODActor.generated.h

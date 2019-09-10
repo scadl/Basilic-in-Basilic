@@ -1,0 +1,293 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\FunctionalTesting\Definitions.FunctionalTesting.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\AutomationBlueprintFunctionLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\AutomationBlueprintFunctionLibrary.h
+d:\epicgames\unrealengine\engine\source\developer\functionaltesting\public\AutomationScreenshotOptions.h
+d:\epicgames\unrealengine\engine\source\developer\functionaltesting\public\AutomationViewSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\AutomationViewSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\AutomationScreenshotOptions.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\AutomationBlueprintFunctionLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CameraActor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CollisionProfile.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\KismetSystemLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DialogueTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStatics.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Tests/AutomationCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\TakeScreenshotAfterTimeLatentAction.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\LatentActions.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\HighResScreenshot.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Tests/AutomationTestSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AutomationTestSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Slate/WidgetRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SVirtualWindow.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\DelayAction.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\BufferVisualizationData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ContentStreaming.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Stats/StatsData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\AutomationController\Public\IAutomationControllerModule.h
+d:\epicgames\unrealengine\engine\source\developer\automationcontroller\public\IAutomationControllerManager.h
+d:\epicgames\unrealengine\engine\source\developer\automationcontroller\public\IAutomationReport.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AutomationController\IAutomationReport.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Scalability.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\DelayForFramesLatentAction.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\DelayForFramesLatentAction.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FuncTestRenderingComponent.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FuncTestRenderingComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FuncTestRenderingComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/StatisticalFloat.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalTest.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalAITest.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalAITest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\GenericTeamAgentInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalAITest.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\FunctionalTestingModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTestingManager.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalTestingManager.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+d:\epicgames\unrealengine\engine\source\runtime\navigationsystem\public\NavFilters/NavigationQueryFilter.h
+d:\epicgames\unrealengine\engine\source\runtime\navigationsystem\public\NavAreas/NavArea.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavAreaBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavArea.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavigationSystemConfig.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\navigationsystem\public\NavigationData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavigationDataInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationData.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavigationSystemBase.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\navigationsystem\public\NavigationOctree.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationSystem.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\AIController.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AITypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\AITypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AIResourceInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\AIResourceInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\MovementComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavMovementComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\PathFollowingComponent.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\AIController.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\Blueprint/AIBlueprintHelperLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\AIBlueprintHelperLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMesh.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavigationPath.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationPath.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\RecastNavMesh.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTest.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\BillboardComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextRenderComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/Selection.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Selection.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ObjectEditorUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/DebugCameraController.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DebugCameraController.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\TraceQueryTestResults.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\TraceQueryTestResults.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/RuntimeErrors.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestGameMode.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTestGameMode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\ServerStatReplicator.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameModeBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalTestGameMode.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/SpectatorPawn.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DefaultPawn.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SpectatorPawn.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestingHelper.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\FunctionalTestingHelper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestingManager.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestingModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AssetRegistry\ARFilter.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\assetregistry\public\IAssetRegistry.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestLevelScript.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTestLevelScript.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/LevelScriptActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\LevelScriptActor.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalTestLevelScript.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalTestUtilityLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalTestUtilityLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalTestUtilityLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\FunctionalUIScreenshotTest.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\FunctionalUIScreenshotTest.h
+d:\epicgames\unrealengine\engine\source\developer\functionaltesting\classes\ScreenshotFunctionalTestBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\ScreenshotFunctionalTestBase.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\SlateWrapperTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\Visual.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\WidgetTransform.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\Widget.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\NamedSlotInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Slate\Anchors.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSignedObject.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSignedObject.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieSceneTrackInstance.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneAnimTypeID.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSection.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSequenceID.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequenceID.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\KeyParams.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieScene.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSpawnable.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSpawnable.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneBinding.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieScenePossessable.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieScene.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneBlendType.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSection.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrack.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTemplate.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackIdentifier.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationField.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationKey.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTrack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceTransform.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplate.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneExecutionTokens.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneExecutionToken.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationScope.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/PersistentEvaluationData.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationOperand.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableToken.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuator.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieScenePlayer.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieScenePreAnimatedState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSpawnRegister.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieSceneObjectSpawner.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableTokenStack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneInitialValueStore.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\evaluation\blending\MovieSceneBlendingAccumulator.inl
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Compilation/MovieSceneTemplateInterrogation.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackImplementation.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceHierarchy.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSectionParameters.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequence.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\WidgetAnimationBinding.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\WidgetAnimation.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+d:\epicgames\unrealengine\engine\source\runtime\propertypath\public\PropertyTypeCompatibility.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\PropertyPath\PropertyPathHelpers.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\DynamicPropertyPath.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\UMG\UserWidget.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\FunctionalUIScreenshotTest.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CameraComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\GroundTruthData.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Public\GroundTruthData.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\GroundTruthData.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\ScreenshotFunctionalTest.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\ScreenshotFunctionalTest.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\ScreenshotFunctionalTest.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/AutomationObjectVersion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\ScreenshotFunctionalTestBase.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\TakeScreenshotAfterTimeLatentAction.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\TestPhaseComponent.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Classes\TestPhaseComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\FunctionalTesting\TestPhaseComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\Tests\ClientFuncTestPerforming.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\FunctionalTesting\Private\TraceQueryTestResults.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TireType.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PhysicsSettingsEnums.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PhysicalMaterial.generated.h

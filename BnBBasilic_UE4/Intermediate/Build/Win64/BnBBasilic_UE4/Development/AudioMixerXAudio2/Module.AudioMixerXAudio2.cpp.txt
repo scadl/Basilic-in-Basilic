@@ -1,0 +1,215 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\AudioMixerXAudio2\Definitions.AudioMixerXAudio2.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\AudioMixerXAudio2\Private\AudioMixerPlatformWindows.cpp
+d:\epicgames\unrealengine\engine\source\runtime\windows\audiomixerxaudio2\private\AudioMixerPlatformXAudio2.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerLog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundMix.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDevice.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundSourceBus.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioSettings.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDeviceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioThread.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/SpectrumAnalyzer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BufferVectorOperations.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/AudioFFT.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerNullDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ParamInterpolator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\xaudio2.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\comdecl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetyps.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+d:\windows kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+d:\windows kits\10\include\10.0.18362.0\um\ole2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oaidl.h
+d:\windows kits\10\include\10.0.18362.0\um\objidl.h
+d:\windows kits\10\include\10.0.18362.0\um\unknwn.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+d:\windows kits\10\include\10.0.18362.0\um\servprov.h
+d:\windows kits\10\include\10.0.18362.0\um\msxml.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\audiodefs.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\xma2defs.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Private\AudioMixerSourceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceDecode.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerSubmix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/EnvelopeFollower.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerBus.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/OnePole.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/Filter.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ModulationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BiQuadFilter.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\Windows Kits\10\include\10.0.18362.0\um\mmdeviceapi.h
+d:\windows kits\10\include\10.0.18362.0\um\propsys.h
+d:\windows kits\10\include\10.0.18362.0\um\ocidl.h
+d:\windows kits\10\include\10.0.18362.0\um\shtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\um\StructuredQueryCondition.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propkeydef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\functiondiscoverykeys_devpkey.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\AudioMixerXAudio2\Private\AudioMixerPlatformXAudio2.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\OpusAudioInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioCompressionSettingsUtils.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioPluginUtilities.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\AudioMixerXAudio2\Private\AudioMixerXAudio2.cpp

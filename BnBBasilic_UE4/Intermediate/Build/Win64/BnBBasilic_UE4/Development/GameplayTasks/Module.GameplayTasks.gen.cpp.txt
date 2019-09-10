@@ -1,0 +1,30 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\GameplayTasks\Definitions.GameplayTasks.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/GameplayTask.h
+d:\epicgames\unrealengine\engine\source\runtime\gameplaytasks\classes\GameplayTaskOwnerInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTaskOwnerInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTask.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask_ClaimResource.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/Tasks/GameplayTask_ClaimResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskResource.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTaskResource.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTask_ClaimResource.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask_SpawnActor.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/Tasks/GameplayTask_SpawnActor.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTask_SpawnActor.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask_TimeLimitedExecution.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/Tasks/GameplayTask_TimeLimitedExecution.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTask_TimeLimitedExecution.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask_WaitDelay.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/Tasks/GameplayTask_WaitDelay.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTask_WaitDelay.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTaskOwnerInterface.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTaskResource.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTasks.init.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTasksComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks/Classes/GameplayTasksComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\gameplaytasks\GameplayTasksComponent.generated.h

@@ -1,0 +1,66 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\SlateRHIRenderer\Definitions.SlateRHIRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\Slate3DRenderer.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\Slate3DRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Public\Interfaces/ISlate3DRenderer.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateRHIResourceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateElementIndexBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateElementVertexBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateRHIRenderingPolicy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingPolicy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureLODSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureLODSettings.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateRHIRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/ElementBatcher.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateAtlasedTextureResource.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateAtlasedTextureResource.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateUTextureResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Slate/SlateTextureAtlasInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SlateTextureAtlasInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateElementIndexBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateElementVertexBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateMaterialResource.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateMaterialResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateMaterialShader.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateMaterialShader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateNativeTextureResource.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateNativeTextureResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlatePostProcessor.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlatePostProcessor.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlatePostProcessResource.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateShaders.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlatePostProcessResource.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIFontTexture.cpp
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateRHIFontTexture.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIRenderer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Renderer/Public/VolumeRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\RendererUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIRendererModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Public\Interfaces/ISlateRHIRendererModule.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateUpdatableBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIRenderingPolicy.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfile.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DeviceProfile.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\DeviceProfiles/DeviceProfileManager.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DeviceProfileManager.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIResourceManager.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+d:\epicgames\unrealengine\engine\source\runtime\slaterhirenderer\private\SlateRHITextureAtlas.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHITextureAtlas.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateShaders.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateUpdatableBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateUTextureResource.cpp

@@ -1,0 +1,109 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\AudioMixer\Definitions.AudioMixer.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerLog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundMix.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDeviceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\Audio/AudioDebug.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\CanvasTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CanvasTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioComponent.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/SpectrumAnalyzer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BufferVectorOperations.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/AudioFFT.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDynamicParameter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundSourceBus.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioVirtualLoop.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\ActiveSound.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerNullDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ParamInterpolator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerSubmix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/EnvelopeFollower.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerBus.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/InterpolatedOnePole.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/Filter.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ModulationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BiQuadFilter.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixerBlueprintLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectDynamicsProcessor.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/DynamicsProcessor.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/Delay.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/WaveTableOsc.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\AudioMixerSubmixEffectDynamicsProcessor.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\AudioMixerBlueprintLibrary.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerBuffer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\TargetPlatform\Public\Interfaces/IAudioFormat.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceDecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioStreaming.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\ContentStreaming.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerBus.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerChannelMaps.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerDevice.cpp
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSource.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceVoice.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioPluginUtilities.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerEffectsManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectReverb.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Reverb.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/AllPassFilter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/OnePole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\AudioMixerSubmixEffectReverb.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectReverbFast.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/ReverbFast.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/IntegerDelay.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/AlignedBlockBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/LongDelayAPF.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/BufferOnePoleLPF.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/DynamicDelayAPF.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\dsp\AllPassFractionalDelay.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\dsp\LinearInterpFractionalDelay.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/LateReflectionsFast.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/EarlyReflectionsFast.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/FeedbackDelayNetwork.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\AudioMixerSubmixEffectReverbFast.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Classes\SubmixEffects/AudioMixerSubmixEffectEQ.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/EQ.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\AudioMixerSubmixEffectEQ.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Noise.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/SinOsc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerEffectsManager.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixerModule.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerNullDevice.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSource.cpp
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerSourceBuffer.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSourceBuffer.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSourceDecode.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSourceManager.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSourceVoice.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSubmix.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/Components/SynthComponent.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\SynthComponent.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/AlignedBlockBuffer.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/AllPassFilter.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/AllPassFractionalDelay.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/Amp.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Amp.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Osc.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/AudioFFT.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/BitCrusher.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/BitCrusher.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/BufferOnePoleLPF.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/AudioMixer/Private/DSP/BufferVectorOperations.cpp

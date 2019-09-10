@@ -1,0 +1,230 @@
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\BmpImageWrapper.cpp
+d:\epicgames\unrealengine\engine\source\runtime\imagewrapper\private\formats\BmpImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\ImageWrapperBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/Map.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/Set.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\HAL/PlatformTLS.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatformTLS.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformTLS.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\BmpImageSupport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/IntegralConstant.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/IsClass.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/Compression.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/FrameNumber.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/Parse.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Color.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ColorList.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/IntPoint.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/IntVector.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Vector2D.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/IntRect.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/ByteSwap.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/CulturePointer.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\UObject/WeakObjectPtrTemplates.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateSettings.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/IDelegateInstance.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateBase.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/MulticastDelegateBase.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/TypeWrapper.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\UObject/ScriptDelegates.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/Delegate.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateInstanceInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateInstancesImpl.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateSignatureImpl.inl
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Delegates/DelegateCombinations.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/TextLocalizationManager.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Containers/ArrayView.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/TextKey.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/LocTesting.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/LocKeyFuncs.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/LocalizedTextSourceTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/EnumClassFlags.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/IsArray.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/RemoveExtent.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/UniquePtr.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/Text.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/StringTableCoreFwd.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/ITextData.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Templates/UniqueObj.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Internationalization/Internationalization.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Vector.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Axis.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Vector4.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/VectorRegister.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/UnrealMathSSE.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/UnrealMathVectorConstants.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/UnrealMathVectorCommon.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/TwoVectors.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Edge.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\UObject/ObjectVersion.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\UObject/PendingVersions.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Plane.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Sphere.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/CapsuleShape.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Rotator.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/DateTime.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/RangeBound.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/AutomationEvent.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Misc/Guid.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Serialization/StructuredArchiveFromArchive.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Range.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/RangeSet.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Box.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Box2D.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/BoxSphereBounds.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/OrientedBox.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Matrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Matrix.inl
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/RotationTranslationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/RotationAboutPointMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ScaleRotationTranslationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/RotationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Quat.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/PerspectiveMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/OrthoMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/TranslationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/QuatRotationTranslationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/InverseRotationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ScaleMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/MirrorMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ClipProjectionMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/InterpCurvePoint.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/InterpCurve.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/CurveEdInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Float32.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Float16.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Float16Color.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Vector2DHalf.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/Transform.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ScalarRegister.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/TransformVectorized.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/TransformNonVectorized.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/ConvexHull2d.h
+d:\epicgames\unrealengine\engine\source\runtime\core\public\Math/UnrealMath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\ExrImageWrapper.cpp
+d:\epicgames\unrealengine\engine\source\runtime\imagewrapper\private\formats\ExrImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfIO.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfInt64.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathInt64.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImathBox.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathVec.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathExc.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\IexBaseExc.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathLimits.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathMath.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\ImathPlatform.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfChannelList.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfName.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfPixelType.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfInputFile.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfHeader.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfLineOrder.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfCompression.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfTileDescription.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfFrameBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfTiledOutputFile.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfThreading.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfOutputFile.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfStdIO.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/openexr/Deploy/include/ImfRgbaFile.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\openexr\Deploy\include\ImfRgba.h
+d:\epicgames\unrealengine\engine\source\thirdparty\openexr\deploy\include\half.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\IcnsImageWrapper.cpp
+d:\epicgames\unrealengine\engine\source\runtime\imagewrapper\private\formats\IcnsImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\IcoImageWrapper.cpp
+d:\epicgames\unrealengine\engine\source\runtime\imagewrapper\private\formats\IcoImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats/PngImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/zlib/zlib-1.2.5/Inc/zlib.h
+d:\epicgames\unrealengine\engine\source\thirdparty\zlib\zlib-1.2.5\inc\zconf.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/png.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libpng\libpng-1.5.2\pnglibconf.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libpng\libpng-1.5.2\pngconf.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/pnginfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\JpegImageWrapper.cpp
+d:\epicgames\unrealengine\engine\source\runtime\imagewrapper\private\formats\JpegImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libJPG\jpgd.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libJPG\jpgd.cpp
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libJPG\jpge.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libJPG\jpge.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\Formats\PngImageWrapper.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\ImageWrapperBase.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Private\ImageWrapperModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h

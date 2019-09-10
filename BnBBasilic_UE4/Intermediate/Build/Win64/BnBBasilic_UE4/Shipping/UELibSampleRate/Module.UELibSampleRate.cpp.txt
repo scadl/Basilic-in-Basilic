@@ -1,0 +1,14 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\UELibSampleRate\Definitions.UELibSampleRate.h
+D:/EpicGames/UnrealEngine/Engine/Source/ThirdParty/libSampleRate/Private/LibSampleRateModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libSampleRate\Public\LibSampleRateModule.h
+D:/EpicGames/UnrealEngine/Engine/Source/ThirdParty/libSampleRate/Private/samplerate.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\libSampleRate\Public\samplerate.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\config.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\float_cast.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\common.h
+D:/EpicGames/UnrealEngine/Engine/Source/ThirdParty/libSampleRate/Private/src_linear.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/ThirdParty/libSampleRate/Private/src_sinc.cpp
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\fastest_coeffs.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\mid_qual_coeffs.h
+d:\epicgames\unrealengine\engine\source\thirdparty\libsamplerate\private\high_qual_coeffs.h
+D:/EpicGames/UnrealEngine/Engine/Source/ThirdParty/libSampleRate/Private/src_zoh.cpp

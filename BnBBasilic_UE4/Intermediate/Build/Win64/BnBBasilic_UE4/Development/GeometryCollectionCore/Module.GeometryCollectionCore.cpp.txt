@@ -1,0 +1,96 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\GeometryCollectionCore\Definitions.GeometryCollectionCore.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollection.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollection.h
+d:\epicgames\unrealengine\engine\source\runtime\experimental\geometrycollectioncore\public\geometrycollection\TransformCollection.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/ManagedArrayCollection.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/ManagedArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionBoneNode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionSection.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/ManagedArrayTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\experimental\geometrycollectioncore\public\geometrycollection\ManagedArrayTypeValues.inl
+d:\epicgames\unrealengine\engine\source\runtime\experimental\geometrycollectioncore\public\geometrycollection\ManagedArrayTypeValues.inl
+d:\epicgames\unrealengine\engine\source\runtime\experimental\geometrycollectioncore\public\geometrycollection\ManagedArrayTypeValues.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionAlgo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionUtility.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionProximityUtility.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionAlgo.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/RecordedTransformTrack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GeometryCollectionCore\RecordedTransformTrack.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionClusteringUtility.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionClusteringUtility.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionPlugin.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Public\GeometryCollection/GeometryCollectionPlugin.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionProximityUtility.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionSection.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\GeometryCollectionUtility.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\ManagedArrayCollection.cpp
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\RecordedTransformTrack.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Experimental\GeometryCollectionCore\Private\GeometryCollection\TransformCollection.cpp

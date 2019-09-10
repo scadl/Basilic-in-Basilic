@@ -1,0 +1,103 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\MovieScene\Definitions.MovieScene.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSequenceTransform.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Public/Evaluation/MovieSceneSequenceTransform.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSequenceTransform.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSignedObject.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Public/MovieSceneSignedObject.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSignedObject.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSpawnable.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Public/MovieSceneSpawnable.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSpawnable.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSubSection.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Public/Sections/MovieSceneSubSection.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSequenceID.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\KeyParams.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieScene.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneBinding.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieScenePossessable.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneObjectBindingID.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneFrameMigration.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieScene.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneBlendType.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEasingFunction.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSection.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSectionParameters.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSequenceInstanceData.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSequenceHierarchy.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvaluationOperand.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSubSection.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneSubTrack.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Public/Tracks/MovieSceneSubTrack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieSceneTrackInstance.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneAnimTypeID.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSegment.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneTrack.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneNameableTrack.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSubTrack.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTestObjects.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene/Private/Tests/MovieSceneTestObjects.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTemplate.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackIdentifier.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneTrackIdentifier.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationField.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationKey.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvaluationKey.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvaluationField.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTrack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplate.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplateBase.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvalTemplateBase.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneExecutionTokens.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneExecutionToken.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationScope.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/PersistentEvaluationData.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableToken.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuator.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieScenePlayer.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieScenePreAnimatedState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\MovieSceneSpawnRegister.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\IMovieSceneObjectSpawner.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableTokenStack.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneInitialValueStore.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\evaluation\blending\MovieSceneBlendingAccumulator.inl
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Compilation/MovieSceneTemplateInterrogation.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvalTemplate.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackImplementation.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneTrackImplementation.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvaluationTrack.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneEvaluationTemplate.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneSequence.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\moviescene\MovieSceneTestObjects.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrack.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrackIdentifier.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MovieScene\MovieSceneTrackImplementation.gen.cpp

@@ -1,0 +1,5 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\WindowsMixedRealityRuntimeSettings\Definitions.WindowsMixedRealityRuntimeSettings.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/WindowsMixedReality/Source/WindowsMixedRealityRuntimeSettings/Private/WindowsMixedRealityRuntimeSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealityRuntimeSettings\Classes\WindowsMixedRealityRuntimeSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\WindowsMixedRealityRuntimeSettings\WindowsMixedRealityRuntimeSettings.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/WindowsMixedReality/Source/WindowsMixedRealityRuntimeSettings/Private/WindowsMixedRealityRuntimeSettingsModule.cpp

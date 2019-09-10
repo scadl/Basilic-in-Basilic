@@ -1,0 +1,20 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\CinematicCamera\Definitions.CinematicCamera.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\CinematicCamera\CameraRig_Crane.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CinematicCamera/Public/CameraRig_Crane.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\cinematiccamera\CameraRig_Crane.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\CinematicCamera\CameraRig_Rail.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CinematicCamera/Public/CameraRig_Rail.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\cinematiccamera\CameraRig_Rail.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\CinematicCamera\CineCameraActor.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CinematicCamera/Public/CineCameraActor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CameraActor.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\cinematiccamera\CineCameraActor.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\CinematicCamera\CineCameraComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CinematicCamera/Public/CineCameraComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CameraComponent.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\cinematiccamera\CineCameraComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\CinematicCamera\CinematicCamera.init.gen.cpp

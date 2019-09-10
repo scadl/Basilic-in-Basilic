@@ -1,0 +1,56 @@
+D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Core/Module.Core.10_of_10.cppa8.o: \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Core/Module.Core.10_of_10.cpp \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Core/PCH.Core.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\AtomicTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\CharTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\CircularBufferTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Containers/CircularBuffer.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\CircularQueueTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Containers/CircularQueue.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\DateTimeTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\FileTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/FileHelper.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\GuidTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\PathsTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\QueueTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\TCharToUTF8.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\TimecodeTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\TimespanTest.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\TripleBufferTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Containers/TripleBuffer.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Math/RandomStream.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\Tests\Misc\TypeContainerTest.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/TypeContainer.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\UObject\DevObjectVersion.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/DevObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Serialization/CustomVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/BlueprintsObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/BuildObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/CoreObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/EditorObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/EnterpriseObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/FrameworkObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/MobileObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/NetworkingObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/OnlineObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/PhysicsObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/PlatformObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/RenderingObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/SequencerObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/VRObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/GeometryObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/AnimPhysObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/AnimObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/FortniteMainBranchObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/ReflectionCaptureObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/LoadTimesObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/AutomationObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/NiagaraObjectVersion.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/DestructionObjectVersion.h \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\UObject\ObjectVersion.cpp \
+  D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Private\UObject\UnrealNames.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/MessageDialog.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\HAL/LowLevelMemTracker.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Serialization/ArchiveFromStructuredArchive.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Serialization/ArchiveProxy.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\UObject/UnrealNames.inl

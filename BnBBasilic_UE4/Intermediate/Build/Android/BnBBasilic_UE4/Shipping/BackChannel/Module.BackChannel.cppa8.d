@@ -1,0 +1,32 @@
+D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/BackChannel/Module.BackChannel.cppa8.o: \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/BackChannel/Module.BackChannel.cpp \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Engine/SharedPCH.Engine.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/BackChannel/Definitions.BackChannel.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/BackChannelOSCBundle.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSCBundle.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSCPacket.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Private/BackChannelCommon.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/BackChannelOSCConnection.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSCConnection.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSCDispatch.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Transport/IBackChannelTransport.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Transport/IBackChannelConnection.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSC.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Protocol/OSC/BackChannelOSCMessage.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Sockets/Public\Sockets.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/BackChannelOSCDispatch.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/BackChannelOSCMessage.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/BackChannelOSCPacket.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Protocol/TestBackChannelOSC.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Transport/BackChannelConnection.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Private/Transport/BackChannelConnection.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Networking/Public\Common/TcpSocketBuilder.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Sockets/Public\SocketSubsystem.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Sockets/Public/AddressInfoTypes.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Networking/Public\Interfaces/IPv4/IPv4Address.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Networking/Public\Interfaces/IPv4/IPv4SubnetMask.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Networking/Public\Interfaces/IPv4/IPv4Endpoint.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Transport/BackChannelTransport.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Private/Transport/TestBackChannelTransport.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source\BackChannel/Utils/BackChannelThreadedConnection.h \
+  D:/EpicGames/UnrealEngine/Engine/Plugins/Experimental/BackChannel/Source/BackChannel/Utils/BackChannelThreadedConnection.cpp

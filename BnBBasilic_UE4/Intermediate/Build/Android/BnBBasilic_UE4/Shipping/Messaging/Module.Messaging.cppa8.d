@@ -1,0 +1,38 @@
+D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Messaging/Module.Messaging.cppa8.o: \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Messaging/Module.Messaging.cpp \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/CoreUObject/SharedPCH.CoreUObject.h \
+  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Messaging/Definitions.Messaging.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bridge/MessageBridge.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bridge/MessageBridge.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageBridge.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageContext.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageReceiver.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageSender.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageTransportHandler.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bridge/MessageAddressBook.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageBus.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageSubscription.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageTransport.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bus/MessageBus.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageBus.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageAttachment.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageInterceptor.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IAuthorizeMessageRecipients.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageTracer.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageRouter.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/SingleThreadRunnable.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageTracer.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageContext.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageSubscription.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bus/MessageContext.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bus/MessageDispatchTask.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private\Bus/MessageDispatchTask.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageBusListener.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bus/MessageRouter.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/Bus/MessageTracer.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Containers/Ticker.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessageTracerBreakpoint.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Private/MessagingModule.cpp \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/CoreDelegates.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Core/Public\Misc/AES.h \
+  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Messaging/Public\IMessagingModule.h

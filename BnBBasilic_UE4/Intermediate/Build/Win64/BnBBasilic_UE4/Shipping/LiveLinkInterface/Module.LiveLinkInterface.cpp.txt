@@ -1,0 +1,107 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\LiveLinkInterface\Definitions.LiveLinkInterface.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/ILiveLinkSubject.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\ILiveLinkSubject.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkFrameTranslator.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkRole.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkRefSkeleton.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkRefSkeleton.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ScopedPointer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkRole.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFrameTranslator.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\ILiveLinkClient.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkPresetTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkPresetTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkCurveRemapSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkCurveRemapSettings.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkSourceSettings.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkSourceFactory.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSourceFactory.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSourceSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkCurveRemapSettings.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkCustomVersion.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkCustomVersion.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkFrameTranslator.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectIterator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectHash.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkModule.cpp
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\private\LiveLinkPrivate.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkRoleTrait.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkRoleTrait.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkController.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkController.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkFrameInterpolationProcessor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFrameInterpolationProcessor.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkFramePreProcessor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFramePreProcessor.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkVirtualSubject.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkVirtualSubject.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkSourceFactory.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkSourceSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/EnterpriseObjectVersion.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkSubjectSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkSubjectSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSubjectSettings.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkTypes.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/LiveLinkVirtualSubject.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkAnimationBlueprintStructs.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationBlueprintStructs.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\ILiveLinkSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\ILiveLinkSource.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationBlueprintStructs.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkAnimationRole.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationRole.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkBasicRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkBasicRole.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationRole.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkTransformRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTransformRole.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkTransformTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTransformTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkBasicRole.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkBasicTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkBasicTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkCameraRole.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkCameraRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkCameraRole.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkCameraTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkCameraTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkLightRole.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkLightRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkLightRole.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkLightTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkLightTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/LiveLinkInterface/Private/Roles/LiveLinkTransformRole.cpp

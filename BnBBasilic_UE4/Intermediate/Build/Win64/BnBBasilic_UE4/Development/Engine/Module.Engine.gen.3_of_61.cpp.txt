@@ -1,0 +1,63 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimClassInterface.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimClassInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimStateMachineTypes.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimClassInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimComposite.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimComposite.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimComposite.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompositeBase.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AnimationUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AnimationCompression.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/FloatPacker.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_Automatic.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_Automatic.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_Automatic.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_BitwiseCompressOnly.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_BitwiseCompressOnly.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_BitwiseCompressOnly.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_LeastDestructive.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_LeastDestructive.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_LeastDestructive.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_PerTrackCompression.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_PerTrackCompression.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompress_RemoveLinearKeys.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_RemoveLinearKeys.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_PerTrackCompression.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_RemoveEverySecondKey.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_RemoveEverySecondKey.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_RemoveEverySecondKey.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_RemoveLinearKeys.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCompress_RemoveTrivialKeys.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCompress_RemoveTrivialKeys.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCompress_RemoveTrivialKeys.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCurveCompressionCodec.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCurveCompressionCodec.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCurveCompressionCodec.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/ArchiveFromStructuredArchive.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCurveCompressionCodec_CompressedRichCurve.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCurveCompressionCodec_CompressedRichCurve.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCurveCompressionCodec_CompressedRichCurve.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCurveCompressionCodec_UniformlySampled.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCurveCompressionCodec_UniformlySampled.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCurveCompressionCodec_UniformlySampled.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCurveCompressionSettings.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimCurveCompressionSettings.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimCurveCompressionSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimCurveTypes.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimEnums.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimInstance.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine/Classes/Animation/AnimInstance.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\TimeStretchCurve.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimMontage.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimNotify.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\engine\AnimInstance.generated.h

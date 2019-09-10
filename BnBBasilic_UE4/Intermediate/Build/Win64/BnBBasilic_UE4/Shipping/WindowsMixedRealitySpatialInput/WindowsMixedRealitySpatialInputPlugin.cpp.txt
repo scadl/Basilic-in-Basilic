@@ -1,0 +1,128 @@
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealitySpatialInput\Public\IWindowsMixedRealitySpatialInputPlugin.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\InputDevice\Public\IInputDeviceModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateColor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateEnums.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\Margin.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericAccessibleInterfaces.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\Geometry.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\Events.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\NavigationReply.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\RenderingCommon.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\Clipping.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\FlowDirection.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyle.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateWidgetStyle.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SCompoundWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\CompositeFont.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateFontInfo.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\FontCache.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateBrush.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateDebugging.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/SlateTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Sound/SlateSound.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateSound.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\SlateTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h

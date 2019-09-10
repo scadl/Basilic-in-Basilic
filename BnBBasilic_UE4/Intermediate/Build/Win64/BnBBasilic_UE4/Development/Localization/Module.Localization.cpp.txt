@@ -1,0 +1,51 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\Localization\Definitions.Localization.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocalizationConfigurationScript.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\LocalizationConfigurationScript.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\LocalizationTargetTypes.h
+d:\epicgames\unrealengine\engine\source\developer\localization\public\PortableObjectPipeline.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Localization\PortableObjectPipeline.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Localization\LocalizationTargetTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\LocalizationSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Localization\LocalizationSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\SourceControlOperations.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\SourceControlOperationBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\ISourceControlState.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocalizationModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\LocalizationModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\TextLocalizationResourceGenerator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocalizationSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocalizationSourceControlUtil.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\LocalizationSourceControlUtil.h
+d:\epicgames\unrealengine\engine\source\developer\localization\public\LocTextHelper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationManifest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationArchive.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Localization\LocTextHelper.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\SourceControlHelpers.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\ISourceControlRevision.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SourceControl\SourceControlHelpers.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocalizationTargetTypes.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/Csv/CsvParser.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocTextHelper.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\DesktopPlatform\Public\PlatformInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/IBreakIterator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/BreakIterator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\Serialization/JsonInternationalizationManifestSerializer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\Serialization/JsonInternationalizationArchiveSerializer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\Serialization/JsonInternationalizationMetadataSerializer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\LocTextHelperTests.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\PortableObjectFormatDOM.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Public\PortableObjectFormatDOM.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\PortableObjectPipeline.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\Serialization\JsonInternationalizationArchiveSerializer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\Serialization\JsonInternationalizationManifestSerializer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\Serialization\JsonInternationalizationMetadataSerializer.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\Localization\Private\TextLocalizationResourceGenerator.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationResource.h

@@ -1,0 +1,140 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\AIModule\Definitions.AIModule.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryManager.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EnvQueryManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/Items/EnvQueryItemType.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryItemType.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryContext.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryContext.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavAreaBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavArea.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeTypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\BehaviorTreeTypes.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\AISubsystem.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AISystem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/AISystemBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AISystemBase.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AISystem.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AISubsystem.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryInstanceBlueprintWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EQSQueryResultSourceInterface.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EQSQueryResultSourceInterface.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryInstanceBlueprintWrapper.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryManager.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryNode.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EnvQueryNode.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryNode.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryOption.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EnvQueryOption.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryOption.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EnvQueryTest.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\DataProviders/AIDataProvider.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AIDataProvider.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Distance.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Distance.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Distance.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Dot.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Dot.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Dot.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_GameplayTags.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_GameplayTags.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_GameplayTags.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Overlap.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Overlap.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Overlap.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Pathfinding.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Pathfinding.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavigationSystemConfig.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Pathfinding.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_PathfindingBatch.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_PathfindingBatch.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_PathfindingBatch.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Project.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Project.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Project.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Random.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Random.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Random.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTest_Trace.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_Trace.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryTest_Trace.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EnvQueryTypes.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EQSQueryResultSourceInterface.gen.cpp
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EQSRenderingComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EQSRenderingComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\DebugRenderSceneProxy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryDebugHelpers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EnvQueryDebugHelpers.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EQSRenderingComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\EQSTestingPawn.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/EnvironmentQuery/EQSTestingPawn.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\RootMotionSource.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Character.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\EQSTestingPawn.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\GenericTeamAgentInterface.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/GenericTeamAgentInterface.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\GenericTeamAgentInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\GridPathAIController.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/GridPathAIController.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AIController.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AITypes.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AITypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\GameplayTasks\GameplayTask.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavigationDataInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavigationData.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\AIResourceInterface.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AIResourceInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\MovementComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\NavMovementComponent.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\PathFollowingComponent.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AIPerceptionListenerInterface.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\AIController.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\GridPathAIController.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\GridPathFollowingComponent.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/Navigation/GridPathFollowingComponent.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\GridPathFollowingComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\NavFilter_AIControllerDefault.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/Navigation/NavFilter_AIControllerDefault.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\NavFilter_AIControllerDefault.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\NavLinkProxy.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/Navigation/NavLinkProxy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\NavigationSystem\Public\NavLinkHostInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\NavigationSystem\NavLinkHostInterface.generated.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\NavLinkProxy.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AIModule\NavLocalGridManager.gen.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule/Classes/Navigation/NavLocalGridManager.h
+d:\epicgames\unrealengine\engine\source\runtime\aimodule\classes\navigation\NavLocalGridData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AIModule\Public\SimpleCellGrid.h
+d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\aimodule\NavLocalGridManager.generated.h

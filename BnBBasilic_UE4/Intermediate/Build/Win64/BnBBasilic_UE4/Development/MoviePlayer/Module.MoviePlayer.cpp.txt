@@ -1,0 +1,42 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\MoviePlayer\Definitions.MoviePlayer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Private\DefaultGameMoviePlayer.cpp
+d:\epicgames\unrealengine\engine\source\runtime\movieplayer\private\DefaultGameMoviePlayer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Public\MoviePlayer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\TickableObjectRenderThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformSplash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformSplash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformSplash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameEngine.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\movieplayer\private\MoviePlayerThreading.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Public\MoviePlayerSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\MoviePlayer\MoviePlayerSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SVirtualWindow.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SDPIScaler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/UserInterfaceSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\UserInterfaceSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Private\MoviePlayer.cpp
+d:\epicgames\unrealengine\engine\source\runtime\movieplayer\private\NullMoviePlayer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Images/SThrobber.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Private\MoviePlayerSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Private\MoviePlayerThreading.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MoviePlayer\Private\NullMoviePlayer.cpp

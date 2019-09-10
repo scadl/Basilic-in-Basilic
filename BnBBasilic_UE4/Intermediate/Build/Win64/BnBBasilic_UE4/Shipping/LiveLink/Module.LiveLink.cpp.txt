@@ -1,0 +1,128 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\LiveLink\Definitions.LiveLink.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/AnimNode_LiveLinkPose.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\AnimNode_LiveLinkPose.h
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\public\LiveLinkRetargetAsset.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkRetargetAsset.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkRefSkeleton.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkRefSkeleton.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\AnimNode_LiveLinkPose.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\ILiveLinkClient.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkRole.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkPresetTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkPresetTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Animation/AnimInstanceProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AnimInstanceProxy.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkCustomVersion.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkRemapAsset.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkRemapAsset.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationRole.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkFrameTranslator.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFrameTranslator.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkFrameInterpolationProcessor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFrameInterpolationProcessor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkBasicRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkBasicRole.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationRole.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkAnimationVirtualSubject.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkAnimationVirtualSubject.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkVirtualSubject.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\ILiveLinkSubject.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkVirtualSubject.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkAnimationVirtualSubject.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkBlueprintLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkAnimationBlueprintStructs.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\ILiveLinkSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\ILiveLinkSource.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkAnimationBlueprintStructs.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkBasicTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkBasicTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkBlueprintLibrary.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkClient.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkSourceSettings.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkSourceFactory.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSourceFactory.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSourceSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkPreset.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkPreset.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkRoleTrait.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkController.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkController.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\livelinkinterface\public\LiveLinkFramePreProcessor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkFramePreProcessor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkSettings.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\LiveLinkSubjectSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkSubjectSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkSettings.generated.h
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkSourceCollection.h
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkSubject.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Media\Public\IMediaModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\TimeSynchronizationSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\TimeManagement\TimeSynchronizationSource.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkClientReference.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkClientReference.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkComponent.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkComponent.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkDrivenComponent.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkDrivenComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkDrivenComponent.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkHeartbeatEmitter.cpp
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkHeartbeatEmitter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageContext.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MessagingCommon\Public\MessageEndpoint.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageAttachment.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageBus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageHandler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageReceiver.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageSender.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessageBusListener.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkMessageBusFramework\Public\LiveLinkMessages.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkMessageBusFramework\LiveLinkMessages.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkInstance.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkInstance.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkInstance.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkMessageBusDiscoveryManager.cpp
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkMessageBusDiscoveryManager.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkMessageBusFinder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\LatentActions.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkMessageBusFinder.generated.h
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkMessageBusSource.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\MessagingCommon\Public\MessageEndpointBuilder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Messaging\Public\IMessagingModule.h
+d:\epicgames\unrealengine\engine\source\runtime\messagingcommon\public\MessageHandlers.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkMessageBusFinder.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkMessageBusSource.cpp
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\ILiveLinkModule.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkMessageBusSourceFactory.cpp
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkMessageBusSourceFactory.h
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\SLiveLinkMessageBusSourceFactory.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkMessageBusSourceFactory.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkModule.cpp
+d:\epicgames\unrealengine\engine\plugins\animation\livelink\source\livelink\private\LiveLinkMotionController.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkTransformRole.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTransformRole.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\LiveLinkInterface\Public\Roles/LiveLinkTransformTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLinkInterface\LiveLinkTransformTypes.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkPreset.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkRemapAsset.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkRetargetAsset.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkSettings.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkSourceCollection.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkSubject.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkTimeSynchronizationSource.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Animation\LiveLink\Source\LiveLink\Public\LiveLinkTimeSynchronizationSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\LiveLink\LiveLinkTimeSynchronizationSource.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/SLiveLinkMessageBusSourceFactory.cpp

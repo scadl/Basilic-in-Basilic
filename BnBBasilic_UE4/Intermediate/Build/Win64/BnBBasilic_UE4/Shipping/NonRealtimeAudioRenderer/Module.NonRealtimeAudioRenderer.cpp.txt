@@ -1,0 +1,50 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\NonRealtimeAudioRenderer\Definitions.NonRealtimeAudioRenderer.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/NonRealtimeAudioRenderer/Private/AudioMixerNonRealtime.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerLog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundMix.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDeviceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\Audio/AudioDebug.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\CanvasTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CanvasTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioComponent.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/SpectrumAnalyzer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BufferVectorOperations.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/AudioFFT.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDynamicParameter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundSourceBus.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioVirtualLoop.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\ActiveSound.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerNullDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ParamInterpolator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Private\AudioMixerSourceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\private\AudioMixerBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerSubmix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/EnvelopeFollower.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\AudioMixerBus.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/InterpolatedOnePole.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/Filter.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/ModulationMatrix.h
+d:\epicgames\unrealengine\engine\source\runtime\audiomixer\public\DSP/BiQuadFilter.h
+d:\epicgames\unrealengine\engine\source\runtime\nonrealtimeaudiorenderer\private\AudioMixerPlatformNonRealtime.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/FileEncoder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Encoders/IAudioEncoder.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\TargetPlatform\Public\Interfaces/IAudioFormat.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/NonRealtimeAudioRenderer/Private/AudioMixerPlatformNonRealtime.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\OpusAudioInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioCompressionSettingsUtils.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioPluginUtilities.h

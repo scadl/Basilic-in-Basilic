@@ -1,0 +1,92 @@
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef WINDOWSMIXEDREALITYHANDTRACKING_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_generated_h
+#error "LiveLinkWindowsMixedRealityHandTrackingSourceFactory.generated.h already included, missing '#pragma once' in LiveLinkWindowsMixedRealityHandTrackingSourceFactory.h"
+#endif
+#define WINDOWSMIXEDREALITYHANDTRACKING_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_generated_h
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_RPC_WRAPPERS
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesULiveLinkWindowsMixedRealityHandTrackingSourceFactory(); \
+	friend struct Z_Construct_UClass_ULiveLinkWindowsMixedRealityHandTrackingSourceFactory_Statics; \
+public: \
+	DECLARE_CLASS(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory, ULiveLinkSourceFactory, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/WindowsMixedRealityHandTracking"), NO_API) \
+	DECLARE_SERIALIZER(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory)
+
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_INCLASS \
+private: \
+	static void StaticRegisterNativesULiveLinkWindowsMixedRealityHandTrackingSourceFactory(); \
+	friend struct Z_Construct_UClass_ULiveLinkWindowsMixedRealityHandTrackingSourceFactory_Statics; \
+public: \
+	DECLARE_CLASS(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory, ULiveLinkSourceFactory, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/WindowsMixedRealityHandTracking"), NO_API) \
+	DECLARE_SERIALIZER(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory)
+
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ULiveLinkWindowsMixedRealityHandTrackingSourceFactory); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory&&); \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(const ULiveLinkWindowsMixedRealityHandTrackingSourceFactory&); \
+public:
+
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory&&); \
+	NO_API ULiveLinkWindowsMixedRealityHandTrackingSourceFactory(const ULiveLinkWindowsMixedRealityHandTrackingSourceFactory&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ULiveLinkWindowsMixedRealityHandTrackingSourceFactory); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ULiveLinkWindowsMixedRealityHandTrackingSourceFactory)
+
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_PRIVATE_PROPERTY_OFFSET
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_8_PROLOG
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_RPC_WRAPPERS \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_INCLASS \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_PRIVATE_PROPERTY_OFFSET \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_INCLASS_NO_PURE_DECLS \
+	Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h_13_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> WINDOWSMIXEDREALITYHANDTRACKING_API UClass* StaticClass<class ULiveLinkWindowsMixedRealityHandTrackingSourceFactory>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Engine_Plugins_Runtime_WindowsMixedReality_Source_WindowsMixedRealityHandTracking_Private_LiveLinkWindowsMixedRealityHandTrackingSourceFactory_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

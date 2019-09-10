@@ -1,0 +1,33 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\SourceControl\Definitions.SourceControl.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\DefaultSourceControlProvider.cpp
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\private\DefaultSourceControlProvider.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\ISourceControlProvider.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\SourceControlHelpers.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\ISourceControlRevision.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SourceControl\SourceControlHelpers.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\SourceControlOperations.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\SourceControlOperationBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\ScopedSourceControlProgress.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ScopedSourceControlProgress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Images/SThrobber.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\SourceControlHelpers.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Public\ISourceControlLabel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\SourceControlModule.cpp
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\private\SourceControlModule.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\private\SourceControlSettings.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\private\SSourceControlLogin.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\SourceControlSettings.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\SSourceControlLogin.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\private\SSourceControlPicker.h
+D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl\Private\SSourceControlPicker.cpp

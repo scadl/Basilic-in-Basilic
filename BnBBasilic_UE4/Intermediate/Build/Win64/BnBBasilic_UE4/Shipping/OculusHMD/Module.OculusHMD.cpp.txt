@@ -1,0 +1,519 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\OculusHMD\Definitions.OculusHMD.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusAssetManager.cpp
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusAssetManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRSystemAssets.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMDPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\IOculusHMDModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\OculusFunctionLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OculusHMD\OculusFunctionLibrary.generated.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Include\OVR_Plugin.h
+d:\epicgames\unrealengine\engine\source\thirdparty\oculus\ovrplugin\ovrplugin\include\OVR_Plugin_Types.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\OculusAssetDirectory.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusFunctionLibrary.cpp
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMDModule.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_VulkanExtensions.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayVulkanExtensions.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_Settings.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_GameFrame.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_CustomPresent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRSwapChain.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderBridge.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_Layer.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_Splash.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\TickableObjectRenderThread.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\OculusHMDTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OculusHMD\OculusHMDTypes.generated.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_StressTester.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_ConsoleCommands.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_SpectatorScreenController.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultSpectatorScreenController.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\ISpectatorScreenController.h
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMD_DynamicResolutionState.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\DynamicResolutionState.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayBase.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\XRTrackingSystemBase.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRTrackingSystem.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+d:\epicgames\unrealengine\engine\source\runtime\headmounteddisplay\public\IXRCamera.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AugmentedReality\ARTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARSessionConfig.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTrackable.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AugmentedReality\ARTrackable.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AugmentedReality\ARSessionConfig.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\augmentedreality\public\ARTextures.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureCube.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AugmentedReality\ARTextures.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplay.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderTargetManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\StereoRenderTargetManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\StaticMeshActor.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\XRThreadUtils.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD.cpp
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusHMDPrivateRHI.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11RHIPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11RHI.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\Windows/D3D11RHIBasePrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\D3D11.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\rpcsal.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ole2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+d:\windows kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidl.h
+d:\windows kits\10\include\10.0.18362.0\um\unknwn.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+d:\windows kits\10\include\10.0.18362.0\um\oaidl.h
+D:\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+d:\windows kits\10\include\10.0.18362.0\um\oleidl.h
+d:\windows kits\10\include\10.0.18362.0\um\servprov.h
+d:\windows kits\10\include\10.0.18362.0\um\msxml.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgitype.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgicommon.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgiformat.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3dcommon.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10_1.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10sdklayers.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10misc.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10shader.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10effect.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d10_1shader.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d11sdklayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Util.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11State.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Resources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\public\D3D11ShaderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11Viewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Public\D3D11ConstantBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows\D3D11StateCache.h
+d:\epicgames\unrealengine\engine\source\runtime\windows\d3d11rhi\private\D3D11StateCachePrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\NVIDIA\NVaftermath\GFSDK_Aftermath.h
+d:\epicgames\unrealengine\engine\source\thirdparty\nvidia\nvaftermath\defines.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\IntelMetricsDiscovery\MetricsDiscoveryHelper\build\include\metrics_discovery\metrics_discovery_helper_dx11.h
+d:\epicgames\unrealengine\engine\source\thirdparty\intelmetricsdiscovery\metricsdiscoveryhelper\build\include\metrics_discovery\metrics_discovery_helper.h
+d:\epicgames\unrealengine\engine\source\thirdparty\intelmetricsdiscovery\metricsdiscoveryhelper\build\include\metrics_discovery\metrics_discovery_api.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12RHICommon.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\Windows/D3D12RHIBasePrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\d3d12.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\d3d12sdklayers.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\d3dx12.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\../Public/D3D12Util.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\windows\WindowsD3D12DiskCache.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\windows\WindowsD3D12PipelineState.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12PipelineState.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Residency.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\dxgi1_6.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi1_5.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi1_4.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi1_3.h
+d:\epicgames\unrealengine\engine\source\thirdparty\windows\directx\include\dxgi1_2.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\Include\D3DX12Residency.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\../Public/D3D12State.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\../Public/D3D12Resources.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\public\D3D12ShaderResources.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12RootSignature.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Shader.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12View.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12CommandList.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Texture.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12DirectCommandListManager.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\../Public/D3D12Viewport.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\../Public/D3D12ConstantBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Query.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12DescriptorCache.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12StateCachePrivate.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Allocation.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12CommandContext.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\delayimp.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Stats.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Device.h
+d:\epicgames\unrealengine\engine\source\runtime\d3d12rhi\private\D3D12Adapter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\OpenGLDrv\Private\OpenGLDrvPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLDrv.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/OpenGLDrv/Private/Windows/OpenGLWindows.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\OpenGL\GL/glcorearb.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\OpenGL\GL/glext.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\OpenGL\GL/wglext.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGL4.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGL3.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGL.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGLUtil.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGLState.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGLResources.h
+d:\epicgames\unrealengine\engine\source\runtime\opengldrv\public\OpenGLShaderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\ShaderCodeLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\ShaderPipelineCache.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\PipelineFileCache.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanRHIPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanPlatform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\VulkanWindowsPlatform.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\../VulkanLoader.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vk_platform.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vulkan_core.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vulkan_win32.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\../VulkanGenericPlatform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\public\VulkanCommon.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanCommandsDirect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanGlobals.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanState.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanGlobalUniformBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanQueue.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanCommandBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineAnalytics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProvider.h
+d:\epicgames\unrealengine\engine\source\runtime\analytics\analytics\public\interfaces\../AnalyticsEventAttribute.h
+d:\epicgames\unrealengine\engine\source\runtime\analytics\analytics\public\AnalyticsConversion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessHMD.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\postprocess\RenderingCompositionGraph.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\postprocess\../ScenePrivate.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ScenePrivateBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\RenderTargetPool.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneCore.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\MeshMaterialShader.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\MaterialShader.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\SceneRenderTargetParameters.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\public\MeshDrawShaderBindings.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightSceneInfo.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DepthRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ShaderBaseClasses.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneHitProxyRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ShadowRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SystemTextures.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PostProcess/SceneRenderTargets.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\postprocess\../VT/VirtualTextureFeedback.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DistortionRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\HeightfieldLighting.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphDefinitions.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphResources.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphPass.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphEvent.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphEvent.inl
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphBuilder.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphValidation.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphBuilder.inl
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\RenderGraphUtils.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\ShaderParameterStruct.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\MeshDrawCommands.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\TranslucencyPass.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightPropagationVolume.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightMapRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\LightMap.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\LightMapTexture2D.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VelocityRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\BasePassRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\FogRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VolumetricFog.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\PlanarReflectionRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Matrix3x4.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ReflectionEnvironment.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\MobileBasePassRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\SceneSoftwareOcclusion.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\ByteBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\LightMapDensityRendering.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Engine/Classes/VT/VirtualTexture.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VirtualTexture.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/Renderer/Private/VT/VirtualTextureSpace.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\vt\VirtualTextureShared.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\vt\VirtualTexturePhysicalSpace.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\vt\TexturePagePool.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/BinaryHeap.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/HashTable.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\vt\TexturePageMap.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\vt\VirtualTextureAllocator.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\VolumetricFogShared.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\DebugViewModeRendering.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\RayTracing/RayTracingIESLightProfiles.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\Halton.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\HaltonUtilities.h
+d:\epicgames\unrealengine\engine\source\runtime\renderer\private\BasePassRendering.inl
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\HardwareInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\FontImportOptions.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Font.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CanvasTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\Canvas.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameEngine.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\UtilityShaders\Public\ClearQuad.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\DynamicResolutionProxy.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public\OculusHMDRuntimeSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OculusHMD\OculusHMDRuntimeSettings.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/UtilityShaders/Public/OculusShaders.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR\Public\IOculusMRModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Oculus\OVRPlugin\OVRPlugin\Include\OVR_Plugin_MixedReality.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_ConsoleCommands.cpp
+d:\epicgames\unrealengine\engine\plugins\runtime\oculus\oculusvr\source\oculushmd\private\OculusSceneCaptureCubemap.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OculusHMD\OculusSceneCaptureCubemap.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_CustomPresent.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_CustomPresent_D3D11.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_CustomPresent_D3D12.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_CustomPresent_OpenGL.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_CustomPresent_Vulkan.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_DynamicResolutionState.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_GameFrame.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_Layer.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_Settings.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_SpectatorScreenController.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\TextureRenderTarget2D.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_Splash.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet\StereoLayerFunctionLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\StereoLayerFunctionLibrary.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_StressTester.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMD_VulkanExtensions.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMDModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+d:\epicgames\unrealengine\engine\source\runtime\projects\public\ModuleDescriptor.h
+d:\epicgames\unrealengine\engine\source\runtime\projects\public\CustomBuildSteps.h
+d:\epicgames\unrealengine\engine\source\runtime\projects\public\LocalizationDescriptor.h
+d:\epicgames\unrealengine\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMDPrivate.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusHMDRuntimeSettings.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/Private/OculusSceneCaptureCubemap.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CollisionProfile.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\KismetSystemLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DialogueTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStatics.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SceneCaptureComponent2D.generated.h

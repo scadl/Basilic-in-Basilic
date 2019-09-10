@@ -1,0 +1,9 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\AndroidPermission\Definitions.AndroidPermission.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Private/AndroidPermission.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\AndroidPermission\Source\AndroidPermission\Public\AndroidPermission.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\AndroidPermission\Source\AndroidPermission\Classes\AndroidPermissionFunctionLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AndroidPermission\AndroidPermissionFunctionLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\AndroidPermission\Source\AndroidPermission\Classes\AndroidPermissionCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AndroidPermission\AndroidPermissionCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Private/AndroidPermissionCallbackProxy.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Private/AndroidPermissionFunctionLibrary.cpp

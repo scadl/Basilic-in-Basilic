@@ -1,0 +1,36 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\TimeManagement\Definitions.TimeManagement.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\CommonFrameRates.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\CommonFrameRates.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\FixedFrameRateCustomTimeStep.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\FixedFrameRateCustomTimeStep.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/EngineCustomTimeStep.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\EngineCustomTimeStep.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\TimeManagement\FixedFrameRateCustomTimeStep.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\FrameNumberTimeEvaluator.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\FrameNumberTimeEvaluator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\TimeManagementBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\TimeManagementBlueprintLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\TimeManagement\TimeManagementBlueprintLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\TimeManagementModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\ITimeManagementModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\TimeManagementTests.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\TimeSynchronizationSource.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\TimeSynchronizationSource.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\TimeManagement\TimeSynchronizationSource.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\Widgets\SFrameRateEntryBox.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\Widgets/SFrameRateEntryBox.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableTextBox.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableText.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Text/ISlateEditableTextWidget.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SErrorHint.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SErrorText.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\Widgets\SFrameRatePicker.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\Widgets/SFrameRatePicker.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboButton.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Private\Widgets\STimecode.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\TimeManagement\Public\Widgets/STimecode.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h

@@ -1,0 +1,486 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\OnlineSubsystemUtils\Definitions.OnlineSubsystemUtils.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementBlueprintLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\AchievementBlueprintLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemModule.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemTypes.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemNames.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineDelegateMacros.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineAchievementsInterface.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineStats.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineKeyValuePair.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlineSubsystemBPCallHelper.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementQueryCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementQueryCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\AchievementQueryCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/AchievementWriteCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\AchievementWriteCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\AchievementWriteCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/ConnectionCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\ConnectionCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineIdentityInterface.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineIdentityErrors.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineError.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineErrorMacros.inl
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\ConnectionCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/CreateSessionCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\CreateSessionCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\CreateSessionCallbackProxy.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/DestroySessionCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\DestroySessionCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\DestroySessionCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/EndMatchCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\EndMatchCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTurnBasedInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystem\OnlineTurnBasedInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\EndMatchCallbackProxy.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/TurnBasedMatchInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystem\TurnBasedMatchInterface.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/EndTurnCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\EndTurnCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\EndTurnCallbackProxy.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/RepLayout.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/FindSessionsCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\FindSessionsCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\FindSessionsCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/FindTurnBasedMatchCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\FindTurnBasedMatchCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\FindTurnBasedMatchCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineStoreInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystem\OnlineStoreInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\InAppPurchaseCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseQueryCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseQueryCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\InAppPurchaseQueryCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/InAppPurchaseRestoreCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\InAppPurchaseRestoreCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\InAppPurchaseRestoreCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/IpConnection.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpConnection.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\IpConnection.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\public\AddressInfoTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\Sockets.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/NetworkProfiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/DataChannel.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\PacketHandlers\PacketHandler\Public\PacketAudit.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/IpNetDriver.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpNetDriver.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\IpNetDriver.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\PacketHandlers/StatelessConnectHandlerComponent.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/JoinSessionCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\JoinSessionCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\JoinSessionCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardBlueprintLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\LeaderboardBlueprintLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PlayerState.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineLeaderboardInterface.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardFlushCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardFlushCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\LeaderboardFlushCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LeaderboardQueryCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LeaderboardQueryCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\LeaderboardQueryCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/LogoutCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\LogoutCallbackProxy.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\BlueprintAsyncActionBase.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\LogoutCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeacon.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeacon.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineBeacon.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconClient.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineBeaconClient.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHostObject.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineBeaconHostObject.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\PackageMapClient.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtils.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsModule.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Online.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineChatInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineFriendsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEventsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePartyInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineExternalUIInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineMessageInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/VoiceInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineTitleFileInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlinePresenceInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineEntitlementsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserCloudInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineUserInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\Interfaces/OnlineStatsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoipListenerSynthComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioComponent.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\AudioMixer\SynthComponent.generated.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketBuffer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/VoiceDataCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/VoiceConfig.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/EnvelopeFollower.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\AudioSettings.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\VoiceConfig.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/DynamicsProcessor.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Delay.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/WaveTableOsc.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/EQ.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/Filter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/ModulationMatrix.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/BiQuadFilter.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\VoipListenerSynthComponent.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconHost.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineBeaconHost.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineBeaconHost.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineBeaconHostObject.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineEngineInterfaceImpl.cpp
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlineEngineInterfaceImpl.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\Net/OnlineEngineInterface.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\OnlineEngineInterface.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineEngineInterfaceImpl.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlinePIESettings.cpp
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\OnlinePIESettings.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlinePIESettings.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSessionClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\OnlineSessionClient.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineSession.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\OnlineSession.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineSessionClient.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSubsystemUtils.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameEngine.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\Voice\Public\VoiceModule.h
+d:\epicgames\unrealengine\engine\source\runtime\online\voice\public\Interfaces/VoiceCapture.h
+d:\epicgames\unrealengine\engine\source\runtime\online\voice\public\VoicePackage.h
+d:\epicgames\unrealengine\engine\source\runtime\online\voice\public\Interfaces/VoiceCodec.h
+d:\epicgames\unrealengine\engine\source\runtime\online\voice\public\VoicePackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDeviceManager.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\Audio/AudioDebug.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\CanvasTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CanvasTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/SpectrumAnalyzer.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/BufferVectorOperations.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\DSP/AudioFFT.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioDynamicParameter.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundMix.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\SoundSourceBus.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\AudioVirtualLoop.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\public\ActiveSound.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestFriendsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestSessionInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestCloudInterface.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSharedCloudInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestLeaderboardInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestTimeInterface.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineTimeInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestIdentityInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestTitleFileInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestEntitlementsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestAchievementsInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestSharingInterface.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSharingInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestUserInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestMessageInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestVoice.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestExternalUIInterface.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\private\Tests/TestPresenceInterface.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/OnlineSubsystemUtilsModule.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegates.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\PartyBeaconClient.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\PartyBeaconState.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineBeaconReservation.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\OnlineBeaconReservation.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\PartyBeaconState.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\PartyBeaconClient.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\PartyBeaconHost.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\PartyBeaconHost.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconHost.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/PartyBeaconState.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/QuitMatchCallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\QuitMatchCallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\QuitMatchCallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/ShowLoginUICallbackProxy.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\ShowLoginUICallbackProxy.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\SpectatorBeaconClient.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\SpectatorBeaconState.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\SpectatorBeaconState.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\SpectatorBeaconClient.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\SpectatorBeaconHost.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\SpectatorBeaconHost.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconHost.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/SpectatorBeaconState.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TestBeaconClient.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TestBeaconClient.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\TestBeaconClient.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TestBeaconHost.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TestBeaconHost.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\TestBeaconHost.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/OnlineSubsystemUtilitiesTests.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestAchievementsInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestCloudInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestEntitlementsInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestExternalUIInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestFriendsInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestIdentityInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestKeyValuePairs.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestLeaderboardInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestMessageInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestPresenceInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestSessionInterface.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\ServerStatReplicator.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameModeBase.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameMode.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\CollisionProfile.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\KismetSystemLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\DialogueTypes.generated.h
+d:\epicgames\unrealengine\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameplayStatics.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemSessionSettings.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystem\source\public\OnlineSubsystemPackage.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestSharingInterface.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\ImageCore\Public\ImageCore.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestTimeInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestTitleFileInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestUserInterface.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/Tests/TestVoice.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Private\Tests/TestVoiceData.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Online\Voice\Public\Voice.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/TurnBasedBlueprintLibrary.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\TurnBasedBlueprintLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoiceEngineImpl.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceEngineImpl.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\VoicePacketImpl.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\GameFramework/GameSession.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\GameSession.generated.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\XAudio2\Private\XAudio2Support.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Windows\XAudio2\Public\XAudio2Device.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDecompress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioEffect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Public\VorbisAudioInfo.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\xaudio2.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\comdecl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetyps.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+d:\windows kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+d:\windows kits\10\include\10.0.18362.0\um\ole2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oaidl.h
+d:\windows kits\10\include\10.0.18362.0\um\objidl.h
+d:\windows kits\10\include\10.0.18362.0\um\unknwn.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\oleidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+d:\windows kits\10\include\10.0.18362.0\um\servprov.h
+d:\windows kits\10\include\10.0.18362.0\um\msxml.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\audiodefs.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\xma2defs.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\X3Daudio.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Windows\DirectX\include\d3d9types.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+D:\Windows Kits\10\include\10.0.18362.0\um\mmdeviceapi.h
+d:\windows kits\10\include\10.0.18362.0\um\propsys.h
+d:\windows kits\10\include\10.0.18362.0\um\ocidl.h
+d:\windows kits\10\include\10.0.18362.0\um\shtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\um\StructuredQueryCondition.h
+D:\Windows Kits\10\include\10.0.18362.0\um\propkeydef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\functiondiscoverykeys_devpkey.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoiceInterfaceImpl.cpp
+D:\EpicGames\UnrealEngine\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceInterfaceImpl.h
+d:\epicgames\unrealengine\engine\plugins\online\onlinesubsystemutils\source\onlinesubsystemutils\public\OnlineSubsystemUtilsPackage.h
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoicePacketBuffer.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoicePacketImpl.cpp
+D:/EpicGames/UnrealEngine/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Private/VoipListenerSynthComponent.cpp

@@ -1,0 +1,152 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\VulkanRHI\Definitions.VulkanRHI.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanCommandBuffer.cpp
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanRHIPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+d:\epicgames\unrealengine\engine\source\runtime\rhi\public\RHIValidationCommon.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanPlatform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\VulkanWindowsPlatform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\../VulkanLoader.h
+D:\EpicGames\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vk_platform.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vulkan_core.h
+d:\epicgames\unrealengine\engine\source\thirdparty\vulkan\include\vulkan\vulkan_win32.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\windows\../VulkanGenericPlatform.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\public\VulkanCommon.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanCommandsDirect.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanGlobals.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanState.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanViewport.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanGlobalUniformBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanDevice.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanQueue.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanCommandBuffer.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanContext.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanDescriptorSets.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanCommands.cpp
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanPendingState.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanPipeline.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\ShaderPipelineCache.h
+d:\epicgames\unrealengine\engine\source\runtime\rendercore\public\TickableObjectRenderThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\RHI\Public\PipelineFileCache.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanPipelineState.h
+d:\epicgames\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanLLM.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanDebug.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanDevice.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanGenericPlatform.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanIndexBuffer.cpp
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanLayers.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayVulkanExtensions.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanLLM.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+D:/EpicGames/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanMemory.cpp

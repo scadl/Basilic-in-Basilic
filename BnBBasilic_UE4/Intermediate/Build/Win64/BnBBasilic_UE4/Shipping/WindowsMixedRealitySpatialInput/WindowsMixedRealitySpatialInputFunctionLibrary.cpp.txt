@@ -1,0 +1,26 @@
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealitySpatialInput\Classes\WindowsMixedRealitySpatialInputFunctionLibrary.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Engine\BlueprintFunctionLibrary.generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealitySpatialInput\Public\WindowsMixedRealitySpatialInputTypes.h
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\WindowsMixedRealitySpatialInput\WindowsMixedRealitySpatialInputFunctionLibrary.Generated.h
+D:\EpicGames\UnrealEngine\Engine\Plugins\Runtime\WindowsMixedReality\Source\WindowsMixedRealitySpatialInput\Public\IWindowsMixedRealitySpatialInputPlugin.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\InputDevice\Public\IInputDeviceModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/Event.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h

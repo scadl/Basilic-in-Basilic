@@ -1,0 +1,179 @@
+D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\Sockets\Definitions.Sockets.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDIPv6Sockets\IPAddressBSDIPv6.cpp
+d:\epicgames\unrealengine\engine\source\runtime\sockets\private\bsdipv6sockets\IPAddressBSDIPv6.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDSockets/SocketSubsystemBSDPrivate.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\public\SocketTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\public\AddressInfoTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack4.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack8.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\pshpack1.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+d:\windows kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+D:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+D:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+D:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+D:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+D:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+D:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+D:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+D:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\winsock2.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ws2def.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\inaddr.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\qos.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ws2tcpip.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ws2ipdef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\in6addr.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\private\bsdipv6sockets\SocketSubsystemBSDIPv6.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDIPv6Sockets/SocketsBSDIPv6.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\Sockets.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\IPAddress.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystemPackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDIPv6Sockets\SocketsBSDIPv6.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDIPv6Sockets\SocketSubsystemBSDIPv6.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDSockets\IPAddressBSD.cpp
+d:\epicgames\unrealengine\engine\source\runtime\sockets\private\bsdsockets\IPAddressBSD.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\private\bsdsockets\SocketSubsystemBSD.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystemPackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDSockets\SocketsBSD.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDSockets/SocketsBSD.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\BSDSockets\SocketSubsystemBSD.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\IPAddress.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\MultichannelTcpGlobals.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\MultichannelTcpGlobals.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\NetworkMessage.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\NetworkMessage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\MultichannelTcpSocket.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\public\MultichannelTcpReceiver.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+d:\epicgames\unrealengine\engine\source\runtime\sockets\public\MultichannelTcpSender.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\ServerTOC.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\ServerTOC.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\Sockets.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\SocketSubsystem.cpp
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystemModule.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Private\Windows\SocketSubsystemWindows.cpp
+d:\epicgames\unrealengine\engine\source\runtime\sockets\private\windows\SocketSubsystemWindows.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Sockets\Public\SocketSubsystemPackage.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Windows Kits\10\include\10.0.18362.0\um\Iphlpapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\iprtrmib.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\mprapidef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\lmcons.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ipifcons.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ipmib.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ifmib.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ifdef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\nldef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tcpmib.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\udpmib.h
+D:\Windows Kits\10\include\10.0.18362.0\um\ipexport.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\packon.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\packoff.h
+D:\Windows Kits\10\include\10.0.18362.0\um\iptypes.h
+D:\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\tcpestats.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\netioapi.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ntddndis.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\devpkey.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\devpropdef.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\pciprop.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\ndis/version.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\windot11.h
+D:\Windows Kits\10\include\10.0.18362.0\shared\WlanTypes.h
+D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
