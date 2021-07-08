@@ -1,8 +1,0 @@
-D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Voronoi/v_base.cca7.o: \
-  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/v_base.cc \
-  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/CoreUObject/SharedPCH.CoreUObject.h \
-  D:/Works/3D\ Engine\ Apps/Basilic-in-Basilic/BnBBasilic_UE4/Intermediate/Build/Android/BnBBasilic_UE4/Shipping/Voronoi/Definitions.Voronoi.h \
-  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/v_base.hh \
-  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/worklist.hh \
-  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/config.hh \
-  D:/EpicGames/UnrealEngine/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/v_base_wl.inl

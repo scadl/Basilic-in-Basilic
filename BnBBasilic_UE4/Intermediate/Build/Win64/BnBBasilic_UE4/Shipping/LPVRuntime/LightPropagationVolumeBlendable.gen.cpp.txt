@@ -1,7 +1,0 @@
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\LPVRuntime\Definitions.LightPropagationVolumeRuntime.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\EpicGames\UnrealEngine\Engine\Plugins\Blendables\LightPropagationVolume\Source\LightPropagationVolumeRuntime/Public/LightPropagationVolumeBlendable.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Renderer\Public\LightPropagationVolumeSettings.h
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\Renderer\LightPropagationVolumeSettings.generated.h
-d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\lightpropagationvolumeruntime\LightPropagationVolumeBlendable.generated.h

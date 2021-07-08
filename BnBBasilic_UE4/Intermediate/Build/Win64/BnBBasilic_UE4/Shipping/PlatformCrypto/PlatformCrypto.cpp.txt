@@ -1,7 +1,0 @@
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Shipping\PlatformCrypto\Definitions.PlatformCrypto.h
-D:\EpicGames\UnrealEngine\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCrypto\Public\IPlatformCrypto.h
-d:\epicgames\unrealengine\engine\plugins\experimental\platformcrypto\source\platformcrypto\public\PlatformCryptoIncludes.h
-D:\EpicGames\UnrealEngine\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCryptoOpenSSL\Public\EncryptionContextOpenSSL.h
-d:\epicgames\unrealengine\engine\plugins\experimental\platformcrypto\source\platformcrypto\public\PlatformCryptoTypes.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h

@@ -3,19 +3,20 @@
 	"Platform": "Win64",
 	"Configuration": "Development",
 	"TargetType": "Game",
+	"Architecture": "",
 	"Project": "../../BnBBasilic_UE4.uproject",
 	"Launch": "$(ProjectDir)/Binaries/Win64/BnBBasilic_UE4.exe",
 	"Version": 
 	{
 		"MajorVersion": 4,
-		"MinorVersion": 22,
-		"PatchVersion": 3,
-		"Changelist": 0,
-		"CompatibleChangelist": 5660361,
+		"MinorVersion": 25,
+		"PatchVersion": 4,
+		"Changelist": 14469661,
+		"CompatibleChangelist": 13144385,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
-		"BranchName": "++UE4+Release-4.22",
-		"BuildId": "e48c582b-ecb9-46ca-9fa6-a1a52d7b5430",
+		"BranchName": "++UE4+Release-4.25",
+		"BuildId": "13144385",
 		"BuildVersion": ""
 	},
 	"BuildProducts": [
@@ -34,7 +35,31 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/OpenXR/OpenXR.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMixedReality/WindowsMixedReality.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/LiveLink.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/VirtualProduction/Takes/Takes.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AR/Microsoft/HoloLensAR/HoloLensAR.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -58,15 +83,19 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin",
+			"Path": "$(EngineDir)/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
+			"Path": "$(EngineDir)/Plugins/Editor/GeometryMode/GeometryMode.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -86,11 +115,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/AppleImageUtils/AppleImageUtils.uplugin",
+			"Path": "$(EngineDir)/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/AppleVision/AppleVision.uplugin",
+			"Path": "$(EngineDir)/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -98,11 +127,67 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosClothEditor/ChaosClothEditor.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosCloth/ChaosCloth.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosEditor/ChaosEditor.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryProcessing/GeometryProcessing.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/EditableMesh/EditableMesh.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GeometryCollectionPlugin/GeometryCollectionPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosSolverPlugin/ChaosSolverPlugin.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/FX/Niagara/Niagara.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/CharacterAI/CharacterAI.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin",
+			"Path": "$(EngineDir)/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeapPassableWorld/MagicLeapPassableWorld.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeap/MagicLeap.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Lumin/MLSDK/MLSDK.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -114,15 +199,15 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Media/LinearTimecode/LinearTimecode.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Media/MediaCompositing/MediaCompositing.uplugin",
 			"Type": "UFS"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Media/WmfMedia/WmfMedia.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MeshPainting/MeshPainting.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -135,6 +220,22 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/TemplateSequence/TemplateSequence.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/MovieRenderPipeline/MovieRenderPipeline.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -162,7 +263,15 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AssetTags/AssetTags.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -178,11 +287,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/EditableMesh/EditableMesh.uplugin",
+			"Path": "$(EngineDir)/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin",
+			"Path": "$(EngineDir)/Plugins/Runtime/GooglePAD/GooglePAD.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -198,10 +307,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin",
 			"Type": "UFS"
 		},
@@ -210,7 +315,15 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/SoundFields/SoundFields.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Synthesis.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -226,6 +339,14 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.Holographic.AppRemoting.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/PerceptionDevice.dll",
+			"Type": "NonUFS"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/HolographicStreamerDesktop.dll",
 			"Type": "NonUFS"
 		},
@@ -238,7 +359,115 @@
 			"Type": "NonUFS"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.Azure.SpatialAnchors.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.Azure.SpatialAnchors.winmd",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.MixedReality.QR.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.MixedReality.SceneUnderstanding.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/concrt140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/msvcp140_1_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/msvcp140_2_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/msvcp140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/vcamp140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/vccorlib140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/vcomp140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/vcruntime140_1_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/vcruntime140_app.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.MixedReality.QR.winmd",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/Microsoft.MixedReality.SceneUnderstanding.winmd",
+			"Type": "NonUFS"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/gamepad.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/holographic_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/indexhmd.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/knuckles.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/oculus_touch.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/rift.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/steamvr_manifest.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_cosmos_controller.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_pro.json",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Config/SteamVRBindings/vive_tracker_camera.json",
 			"Type": "NonUFS"
 		},
 		{
@@ -358,7 +587,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/DebugBorder.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/DebugBorder.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -398,7 +627,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/HeaderSplitterGrip.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/GroupBorder_Shape.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Common/HeaderSplitterGrip.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -418,7 +651,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/ProgressBar_Marquee.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/ProgressBar_Marquee.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -434,7 +667,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/RoundedSelection_16x.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/RoundedSelection_16x.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -474,7 +707,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/SearchGlass.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/SearchGlass.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -538,7 +771,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/Spinbox.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/Spinbox.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -590,7 +823,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/TextBoxLabelBorder.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/TextBoxLabelBorder.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -674,7 +907,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Common/X.png",
+			"Path": "$(EngineDir)/Content/Slate/Common/X.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -859,6 +1092,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Docking/Tab_Inactive.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Docking/Tab_Shape.png",
 			"Type": "UFS"
 		},
 		{
@@ -1138,7 +1375,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Content/Slate/Old/Border.png",
+			"Path": "$(EngineDir)/Content/Slate/Old/Border.PNG",
 			"Type": "UFS"
 		},
 		{
@@ -1183,6 +1420,170 @@
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Old/White.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/ArrowBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/ArrowLeft.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/bigdot.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/blank.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/BoxEdgeHighlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CalloutBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CalloutBox2.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CalloutBox3.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CircleBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CircleBox2.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_L.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_LR.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_LR_E.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_L_E.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_R.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedCircleBox_R_E.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedSquareBox_L.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedSquareBox_LR.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedSquareBox_LR_E.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedSquareBox_R.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/DottedSquareBox_R_E.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Roboto-Bold.ttf",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/RoundedBoxBorder.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/RoundedTileFaded.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SolidWhite.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SquareBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SquareBox_Solid_L.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SquigglyBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Tile_Highlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Underline.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/ping.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_glow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_head.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_head_glow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_highlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_shadow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_stick.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_0.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_1.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_2.png",
 			"Type": "UFS"
 		},
 		{
@@ -1246,11 +1647,7 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMixedReality/Binaries/ThirdParty/MixedRealityInteropLibrary/Win64/MixedRealityInterop.dll",
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenXR/win64/openxr_loader-1_0.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -1258,7 +1655,7 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll",
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/x64/MixedRealityInterop.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -1334,10 +1731,6 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
 			"Type": "NonUFS"
 		},
@@ -1347,6 +1740,18 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
 			"Type": "NonUFS"
 		}
 	],

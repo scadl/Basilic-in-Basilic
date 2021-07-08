@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.bnbbasilic_ue4-10757647.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "d:/Works/3D Engine Apps/Basilic-in-Basilic/BnBBasilic_UE4/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "BnBBasilic_UE4-10757647 [UE Editor]"
+				}
+			}
+		}
+	]
+}

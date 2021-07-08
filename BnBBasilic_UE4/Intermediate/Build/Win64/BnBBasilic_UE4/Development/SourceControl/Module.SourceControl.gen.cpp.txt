@@ -1,9 +1,0 @@
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Development\SourceControl\Definitions.SourceControl.h
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SourceControl\SourceControl.init.gen.cpp
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\EpicGames\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-D:\Works\3D Engine Apps\Basilic-in-Basilic\BnBBasilic_UE4\Intermediate\Build\Win64\BnBBasilic_UE4\Inc\SourceControl\SourceControlHelpers.gen.cpp
-D:\EpicGames\UnrealEngine\Engine\Source\Developer\SourceControl/Public/SourceControlHelpers.h
-d:\epicgames\unrealengine\engine\source\developer\sourcecontrol\public\ISourceControlRevision.h
-d:\works\3d engine apps\basilic-in-basilic\bnbbasilic_ue4\intermediate\build\win64\bnbbasilic_ue4\inc\sourcecontrol\SourceControlHelpers.generated.h
